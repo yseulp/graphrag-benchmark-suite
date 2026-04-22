@@ -1,0 +1,1063 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="name">
+      <data key="d0">name</data>
+      <data key="d1">type</data>
+      <data key="d2">type&lt;SEP&gt;description&lt;SEP&gt;category&lt;SEP&gt;attributes</data>
+      <data key="d3">chunk-f553039478a9062cbc987534ad4b8786&lt;SEP&gt;chunk-d6d9a26a92e315e16b4faa765adb00c5&lt;SEP&gt;chunk-678cfa4b8a685b0b12a836d4704573f7&lt;SEP&gt;chunk-0461ef768fdce3a769ac5e017ff55c16&lt;SEP&gt;chunk-085dcc09864d6f2a495922872689622a&lt;SEP&gt;chunk-b5a1f3b3cdf99d9b852709b389cb3e49&lt;SEP&gt;chunk-ea54de8993979a78f56d2b1c760eb4d6&lt;SEP&gt;chunk-5ac71271f9b33a01103afe7597d4f9e5&lt;SEP&gt;chunk-209e03bc901f4873b2e52d95d1c93231</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326269</data>
+      <data key="d6" />
+    </node>
+    <node id="Organization">
+      <data key="d0">Organization</data>
+      <data key="d1">amajortechcompanyintheus</data>
+      <data key="d2">business_entity&lt;SEP&gt;CEO: John Doe, Address: New York&lt;SEP&gt;XYZ Corp.</data>
+      <data key="d3">chunk-f553039478a9062cbc987534ad4b8786&lt;SEP&gt;chunk-0461ef768fdce3a769ac5e017ff55c16&lt;SEP&gt;chunk-08262dbfb9ebeb6097aece62d8082515</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326269</data>
+      <data key="d6" />
+    </node>
+    <node id="XYZ Inc.">
+      <data key="d0">XYZ Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Company located at 123 Main St., New York City.&lt;SEP&gt;tech</data>
+      <data key="d3">chunk-d6d9a26a92e315e16b4faa765adb00c5&lt;SEP&gt;chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326269</data>
+      <data key="d6" />
+    </node>
+    <node id="John Smith">
+      <data key="d0">John Smith</data>
+      <data key="d1">person</data>
+      <data key="d2">CEO of XYZ Inc.&lt;SEP&gt;person&lt;SEP&gt;john.smith@email.com`&lt;SEP&gt;male</data>
+      <data key="d3">chunk-d6d9a26a92e315e16b4faa765adb00c5&lt;SEP&gt;chunk-44cbf2eb345f87e0de5e1796d976931f&lt;SEP&gt;chunk-e693845adbf07e2a0486ae52166475a2&lt;SEP&gt;chunk-573bdc13acbb92661b40b84e7e16a59c&lt;SEP&gt;chunk-f553039478a9062cbc987534ad4b8786</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326269</data>
+      <data key="d6" />
+    </node>
+    <node id="Name">
+      <data key="d0">Name</data>
+      <data key="d1">description</data>
+      <data key="d2">Category</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Company A">
+      <data key="d0">Company A</data>
+      <data key="d1">atechnologycompany</data>
+      <data key="d2">Business</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Person B">
+      <data key="d0">Person B</data>
+      <data key="d1">asoftwareengineer</data>
+      <data key="d2">Person</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d1">janesmith</data>
+      <data key="d2">Employee at ABC Corporation</data>
+      <data key="d3">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="New York">
+      <data key="d0">New York</data>
+      <data key="d1">city</data>
+      <data key="d2">NYC</data>
+      <data key="d3">chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="XYZ Corp">
+      <data key="d0">XYZ Corp</data>
+      <data key="d1">type</data>
+      <data key="d2">organization</data>
+      <data key="d3">chunk-e693845adbf07e2a0486ae52166475a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="acquired_by">
+      <data key="d0">acquired_by</data>
+      <data key="d1">microsoft</data>
+      <data key="d2">GitHub&lt;SEP&gt;Nokia</data>
+      <data key="d3">chunk-dbb4530d82451e3441827ce5283014e5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="CEO">
+      <data key="d0">CEO</data>
+      <data key="d1">johnsmith</data>
+      <data key="d2">XYZ Corporation&lt;SEP&gt;ABC Inc.</data>
+      <data key="d3">chunk-852d3fc5de699cfafd948545be966c1a&lt;SEP&gt;chunk-56633381ec580d5606ac939f1785de24&lt;SEP&gt;chunk-f553039478a9062cbc987534ad4b8786</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="has offices in">
+      <data key="d0">has offices in</data>
+      <data key="d1">xyzcorporation</data>
+      <data key="d2">New York, Los Angeles, and Chicago</data>
+      <data key="d3">chunk-852d3fc5de699cfafd948545be966c1a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="specializes in">
+      <data key="d0">specializes in</data>
+      <data key="d1">xyzcorporation</data>
+      <data key="d2">software solutions</data>
+      <data key="d3">chunk-852d3fc5de699cfafd948545be966c1a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="ownership">
+      <data key="d0">ownership</data>
+      <data key="d1">johnsmith</data>
+      <data key="d2">TechCorp</data>
+      <data key="d3">chunk-087388f87febdb8f5d96ba83001af41c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="subsidiary">
+      <data key="d0">subsidiary</data>
+      <data key="d1">techcorp</data>
+      <data key="d2">Subsidiary A&lt;SEP&gt;Subsidiary B</data>
+      <data key="d3">chunk-087388f87febdb8f5d96ba83001af41c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Emily Lee">
+      <data key="d0">Emily Lee</data>
+      <data key="d1">person</data>
+      <data key="d2">emily.lee@email.com`</data>
+      <data key="d3">chunk-573bdc13acbb92661b40b84e7e16a59c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Google's headquarters">
+      <data key="d0">Google's headquarters</data>
+      <data key="d1">organization</data>
+      <data key="d2">google.com`</data>
+      <data key="d3">chunk-573bdc13acbb92661b40b84e7e16a59c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="works_with">
+      <data key="d0">works_with</data>
+      <data key="d1">johnsmith</data>
+      <data key="d2">Emily Lee`</data>
+      <data key="d3">chunk-573bdc13acbb92661b40b84e7e16a59c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="headquarters">
+      <data key="d0">headquarters</data>
+      <data key="d1">abcinc.</data>
+      <data key="d2">New York City</data>
+      <data key="d3">chunk-56633381ec580d5606ac939f1785de24&lt;SEP&gt;chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="subsidiaries">
+      <data key="d0">subsidiaries</data>
+      <data key="d1">abcinc.</data>
+      <data key="d2">India&lt;SEP&gt;US&lt;SEP&gt;UK</data>
+      <data key="d3">chunk-56633381ec580d5606ac939f1785de24</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Vincent van Gogh">
+      <data key="d0">Vincent van Gogh</data>
+      <data key="d1">person</data>
+      <data key="d2">Famous Dutch post-impressionist artist&lt;SEP&gt;Artist</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Starry Night">
+      <data key="d0">Starry Night</data>
+      <data key="d1">painting</data>
+      <data key="d2">A famous painting by Vincent van Gogh</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Arles, France">
+      <data key="d0">Arles, France</data>
+      <data key="d1">location</data>
+      <data key="d2">City in southern France where Vincent van Gogh painted 'Starry Night'</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Sunflowers">
+      <data key="d0">Sunflowers</data>
+      <data key="d1">painting</data>
+      <data key="d2">A series of paintings by Vincent van Gogh featuring sunflowers</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="Wheat Field">
+      <data key="d0">Wheat Field</data>
+      <data key="d1">painting</data>
+      <data key="d2">One of the paintings created by Vincent van Gogh during his time at an asylum</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="John Doe">
+      <data key="d0">John Doe</data>
+      <data key="d1">person</data>
+      <data key="d2">Male Individual with a name, occupation, and address</data>
+      <data key="d3">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326270</data>
+      <data key="d6" />
+    </node>
+    <node id="New York City Hall">
+      <data key="d0">New York City Hall</data>
+      <data key="d1">location</data>
+      <data key="d2">City hall in New York City</data>
+      <data key="d3">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Company X">
+      <data key="d0">Company X</data>
+      <data key="d1">leadingtechnologyfirm</data>
+      <data key="d2">Organization</data>
+      <data key="d3">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Product A">
+      <data key="d0">Product A</data>
+      <data key="d1">advancedsoftwaresolution</data>
+      <data key="d2">Product</data>
+      <data key="d3">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Person Y">
+      <data key="d0">Person Y</data>
+      <data key="d1">ceoandfounder</data>
+      <data key="d2">Person</data>
+      <data key="d3">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Owns Brand">
+      <data key="d0">Owns Brand</data>
+      <data key="d1">abccorporation</data>
+      <data key="d2">Adidas&lt;SEP&gt;Reebok&lt;SEP&gt;Nike</data>
+      <data key="d3">chunk-5a323f90c6eda3c1c4c6bed3eb747396</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="has_office">
+      <data key="d0">has_office</data>
+      <data key="d1">techcorp</data>
+      <data key="d2">123 Main St, New York, NY 10001</data>
+      <data key="d3">chunk-b57b1aecad2bc1df0ff22a52120a5d45</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="located_in">
+      <data key="d0">located_in</data>
+      <data key="d1">paris</data>
+      <data key="d2">France</data>
+      <data key="d3">chunk-b57b1aecad2bc1df0ff22a52120a5d45&lt;SEP&gt;chunk-a5786cfb81de712896ac4a656a96c936</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="type">
+      <data key="d0">type</data>
+      <data key="d1">name</data>
+      <data key="d2">description</data>
+      <data key="d3">chunk-a6cc899a18c36784c3a004b6e2134160&lt;SEP&gt;chunk-d6d9a26a92e315e16b4faa765adb00c5&lt;SEP&gt;chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="person">
+      <data key="d0">person</data>
+      <data key="d1">john</data>
+      <data key="d2">CEO of ABC Corporation&lt;SEP&gt;Employee of XYZ Inc.</data>
+      <data key="d3">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="company">
+      <data key="d0">company</data>
+      <data key="d1">abccorporation</data>
+      <data key="d2">A multinational corporation&lt;SEP&gt;A technology firm</data>
+      <data key="d3">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Organization XYZ">
+      <data key="d0">Organization XYZ</data>
+      <data key="d1">company</data>
+      <data key="d2">Leading provider of technology solutions</data>
+      <data key="d3">chunk-5ac71271f9b33a01103afe7597d4f9e5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="New York City">
+      <data key="d0">New York City</data>
+      <data key="d1">location</data>
+      <data key="d2">Capital city of the United States</data>
+      <data key="d3">chunk-5ac71271f9b33a01103afe7597d4f9e5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="City Hall">
+      <data key="d0">City Hall</data>
+      <data key="d1">governmentbuilding</data>
+      <data key="d2">Public Building</data>
+      <data key="d3">chunk-209e03bc901f4873b2e52d95d1c93231</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Company">
+      <data key="d0">Company</data>
+      <data key="d1">xyzcorporation</data>
+      <data key="d2">Unknown</data>
+      <data key="d3">chunk-cd36d7aa03a123951e4fc5454e6c526a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="is headquartered in">
+      <data key="d0">is headquartered in</data>
+      <data key="d3">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d2">New York City&lt;SEP&gt;#</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="is CEO of">
+      <data key="d0">is CEO of</data>
+      <data key="d3">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d2">XYZ Corporation&lt;SEP&gt;#</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="entity1">
+      <data key="d0">entity1</data>
+      <data key="d3">chunk-f553039478a9062cbc987534ad4b8786&lt;SEP&gt;chunk-d6d9a26a92e315e16b4faa765adb00c5&lt;SEP&gt;chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d2">relationship_type</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="Paris">
+      <data key="d0">Paris</data>
+      <data key="d3">chunk-a5786cfb81de712896ac4a656a96c936</data>
+      <data key="d2">city of Paris</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="location">
+      <data key="d0">location</data>
+      <data key="d3">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d2">New York City&lt;SEP&gt;#</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="organization">
+      <data key="d0">organization</data>
+      <data key="d3">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d2">XYZ Corporation&lt;SEP&gt;#</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326271</data>
+      <data key="d6" />
+    </node>
+    <node id="object">
+      <data key="d0">object</data>
+      <data key="d3">chunk-678cfa4b8a685b0b12a836d4704573f7</data>
+      <data key="d2">description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Entity 1">
+      <data key="d0">Entity 1</data>
+      <data key="d3">chunk-678cfa4b8a685b0b12a836d4704573f7&lt;SEP&gt;chunk-650eaec6ddcd392d5fffbdde2f31f777</data>
+      <data key="d2">Connection description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="has partnerships with">
+      <data key="d0">has partnerships with</data>
+      <data key="d3">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d2">Microsoft&lt;SEP&gt;Google&lt;SEP&gt;#</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Employee">
+      <data key="d0">Employee</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d2">Employment</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="subject">
+      <data key="d0">subject</data>
+      <data key="d3">chunk-678cfa4b8a685b0b12a836d4704573f7&lt;SEP&gt;chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d2">description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Graduated-From">
+      <data key="d0">Graduated-From</data>
+      <data key="d3">chunk-d6d9a26a92e315e16b4faa765adb00c5</data>
+      <data key="d2">Computer Science degree</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Entity 2">
+      <data key="d0">Entity 2</data>
+      <data key="d3">chunk-678cfa4b8a685b0b12a836d4704573f7</data>
+      <data key="d2">Connection description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Product">
+      <data key="d0">Product</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d2">Development</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Investor">
+      <data key="d0">Investor</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d2">Investment</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="works at">
+      <data key="d0">works at</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80&lt;SEP&gt;chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d2">Employment</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="developed by">
+      <data key="d0">developed by</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d2">Development</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="invests in">
+      <data key="d0">invests in</data>
+      <data key="d3">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d2">Investment</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326272</data>
+      <data key="d6" />
+    </node>
+    <node id="Person: Jane Smith">
+      <data key="d0">Person: Jane Smith</data>
+      <data key="d3">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d2">Employment Relationship</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="Organization: ABC Corporation">
+      <data key="d0">Organization: ABC Corporation</data>
+      <data key="d3">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d2">Headquarter Location</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="lives in">
+      <data key="d0">lives in</data>
+      <data key="d3">chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d2">residential</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="employee_of">
+      <data key="d0">employee_of</data>
+      <data key="d3">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d2">Employment Relationship</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="Microsoft Corporation">
+      <data key="d0">Microsoft Corporation</data>
+      <data key="d3">chunk-dbb4530d82451e3441827ce5283014e5</data>
+      <data key="d2">2014</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="has_worked_with">
+      <data key="d0">has_worked_with</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d2">influenced_by</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="painting">
+      <data key="d0">painting</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d2">created</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="related_to">
+      <data key="d0">related_to</data>
+      <data key="d3">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d2">influenced_by</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326273</data>
+      <data key="d6" />
+    </node>
+    <node id="employs">
+      <data key="d0">employs</data>
+      <data key="d3">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d2">Occupation as a city official</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="is-located-in">
+      <data key="d0">is-located-in</data>
+      <data key="d3">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d2">Location in the city</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="entity2">
+      <data key="d0">entity2</data>
+      <data key="d3">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d2">description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="The Louvre Museum">
+      <data key="d0">The Louvre Museum</data>
+      <data key="d3">chunk-cc0303b62be8d6475395973e6c749681</data>
+      <data key="d2">Louvre Museum</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="has-aquaintance-with">
+      <data key="d0">has-aquaintance-with</data>
+      <data key="d3">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d2">Social relationship</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Microsoft</data>
+      <data key="d3">chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b</data>
+      <data key="d2">Cloud Computing group</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="houses an impressive collection of artwork">
+      <data key="d0">houses an impressive collection of artwork</data>
+      <data key="d3">chunk-cc0303b62be8d6475395973e6c749681</data>
+      <data key="d2">Louvre Museum</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="Relation Type">
+      <data key="d0">Relation Type</data>
+      <data key="d3">chunk-650eaec6ddcd392d5fffbdde2f31f777</data>
+      <data key="d2">Description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="collaboration">
+      <data key="d0">collaboration</data>
+      <data key="d3">chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b&lt;SEP&gt;chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d2">Cloud Computing group</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="Headquarters">
+      <data key="d0">Headquarters</data>
+      <data key="d3">chunk-cd36d7aa03a123951e4fc5454e6c526a</data>
+      <data key="d2">Unknown</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326274</data>
+      <data key="d6" />
+    </node>
+    <node id="Location">
+      <data key="d0">Location</data>
+      <data key="d3">chunk-cd36d7aa03a123951e4fc5454e6c526a</data>
+      <data key="d2">Unknown</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326275</data>
+      <data key="d6" />
+    </node>
+    <node id="Entity 3">
+      <data key="d0">Entity 3</data>
+      <data key="d3">chunk-650eaec6ddcd392d5fffbdde2f31f777</data>
+      <data key="d2">Description</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326275</data>
+      <data key="d6" />
+    </node>
+    <node id="John">
+      <data key="d0">John</data>
+      <data key="d3">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d2">Emma</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326275</data>
+      <data key="d6" />
+    </node>
+    <node id="reviewing">
+      <data key="d0">reviewing</data>
+      <data key="d3">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d2">ABC Corporation</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1770326275</data>
+      <data key="d6" />
+    </node>
+    <edge source="name" target="entity1">
+      <data key="d7">1.0</data>
+      <data key="d8">relationship_type</data>
+      <data key="d9">entity2</data>
+      <data key="d10">chunk-f553039478a9062cbc987534ad4b8786</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326271</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Smith" target="CEO">
+      <data key="d7">1.0</data>
+      <data key="d8">employment</data>
+      <data key="d9">Organization</data>
+      <data key="d10">chunk-f553039478a9062cbc987534ad4b8786</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Smith" target="Graduated-From">
+      <data key="d7">1.0</data>
+      <data key="d8">Computer Science degree</data>
+      <data key="d9">Harvard University</data>
+      <data key="d10">chunk-d6d9a26a92e315e16b4faa765adb00c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Smith" target="lives in">
+      <data key="d7">1.0</data>
+      <data key="d8">residential</data>
+      <data key="d9">New York</data>
+      <data key="d10">chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Smith" target="works at">
+      <data key="d7">1.0</data>
+      <data key="d8">employment</data>
+      <data key="d9">XYZ Inc.</data>
+      <data key="d10">chunk-44cbf2eb345f87e0de5e1796d976931f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="acquired_by" target="Microsoft Corporation">
+      <data key="d7">2014.0</data>
+      <data key="d8">2014</data>
+      <data key="d9">Nokia</data>
+      <data key="d10">chunk-dbb4530d82451e3441827ce5283014e5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="headquarters" target="Organization: ABC Corporation">
+      <data key="d7">1.0</data>
+      <data key="d8">Headquarter Location</data>
+      <data key="d9">Place: New York</data>
+      <data key="d10">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Starry Night" target="painting">
+      <data key="d7">3.0</data>
+      <data key="d8">created</data>
+      <data key="d9">Vincent van Gogh</data>
+      <data key="d10">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Sunflowers" target="painting">
+      <data key="d7">2.0</data>
+      <data key="d8">created</data>
+      <data key="d9">Vincent van Gogh</data>
+      <data key="d10">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wheat Field" target="painting">
+      <data key="d7">2.0</data>
+      <data key="d8">created</data>
+      <data key="d9">Vincent van Gogh</data>
+      <data key="d10">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Doe" target="employs">
+      <data key="d7">1.0</data>
+      <data key="d8">Occupation as a city official</data>
+      <data key="d9">New York City Hall</data>
+      <data key="d10">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Doe" target="has-aquaintance-with">
+      <data key="d7">1.0</data>
+      <data key="d8">Social relationship</data>
+      <data key="d9">Jane Smith</data>
+      <data key="d10">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="New York City Hall" target="is-located-in">
+      <data key="d7">1.0</data>
+      <data key="d8">Location in the city</data>
+      <data key="d9">New York City</data>
+      <data key="d10">chunk-b5a1f3b3cdf99d9b852709b389cb3e49</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Company X" target="Product A">
+      <data key="d7">1.0</data>
+      <data key="d8">Jointly developed product A using cutting-edge technology from Company X.</data>
+      <data key="d9">development partnership</data>
+      <data key="d10">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="located_in" target="Paris">
+      <data key="d7">1.0</data>
+      <data key="d8">city of Paris</data>
+      <data key="d9">location</data>
+      <data key="d10">chunk-a5786cfb81de712896ac4a656a96c936</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="type" target="entity1">
+      <data key="d7">1.0</data>
+      <data key="d8">description</data>
+      <data key="d9">entity2</data>
+      <data key="d10">chunk-d6d9a26a92e315e16b4faa765adb00c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="type" target="subject">
+      <data key="d7">1.0</data>
+      <data key="d8">description</data>
+      <data key="d9">object</data>
+      <data key="d10">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="is headquartered in" target="location">
+      <data key="d7">3.0</data>
+      <data key="d8">New York City&lt;SEP&gt;#</data>
+      <data key="d9">XYZ Corporation</data>
+      <data key="d10">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326271</data>
+      <data key="d13" />
+    </edge>
+    <edge source="is CEO of" target="organization">
+      <data key="d7">3.0</data>
+      <data key="d8">XYZ Corporation&lt;SEP&gt;#</data>
+      <data key="d9">John Smith</data>
+      <data key="d10">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="entity1" target="entity2">
+      <data key="d7">1.0</data>
+      <data key="d8">description</data>
+      <data key="d9">type</data>
+      <data key="d10">chunk-ea54de8993979a78f56d2b1c760eb4d6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="organization" target="has partnerships with">
+      <data key="d7">5.0</data>
+      <data key="d8">Microsoft&lt;SEP&gt;Google&lt;SEP&gt;#</data>
+      <data key="d9">XYZ Corporation</data>
+      <data key="d10">chunk-258920087f644cc25885ea26d1b42c57</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="object" target="subject">
+      <data key="d7">1.0</data>
+      <data key="d8">description</data>
+      <data key="d9">type</data>
+      <data key="d10">chunk-678cfa4b8a685b0b12a836d4704573f7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entity 1" target="Entity 2">
+      <data key="d7">1.0</data>
+      <data key="d8">Connection description</data>
+      <data key="d9">Has A Connection</data>
+      <data key="d10">chunk-678cfa4b8a685b0b12a836d4704573f7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entity 1" target="Relation Type">
+      <data key="d7">1.0</data>
+      <data key="d8">Description</data>
+      <data key="d9">Entity 2</data>
+      <data key="d10">chunk-650eaec6ddcd392d5fffbdde2f31f777</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Employee" target="works at">
+      <data key="d7">1.0</data>
+      <data key="d8">Employment</data>
+      <data key="d9">Company A</data>
+      <data key="d10">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326272</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Product" target="developed by">
+      <data key="d7">1.0</data>
+      <data key="d8">Development</data>
+      <data key="d9">Person B</data>
+      <data key="d10">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Investor" target="invests in">
+      <data key="d7">1.0</data>
+      <data key="d8">Investment</data>
+      <data key="d9">Company A</data>
+      <data key="d10">chunk-c166588570b3208746fbee38b631ae80</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person: Jane Smith" target="employee_of">
+      <data key="d7">1.0</data>
+      <data key="d8">Employment Relationship</data>
+      <data key="d9">Organization: ABC Corporation</data>
+      <data key="d10">chunk-0461ef768fdce3a769ac5e017ff55c16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="has_worked_with" target="related_to">
+      <data key="d7">5.0</data>
+      <data key="d8">influenced_by</data>
+      <data key="d9">created_by</data>
+      <data key="d10">chunk-085dcc09864d6f2a495922872689622a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="The Louvre Museum" target="houses an impressive collection of artwork">
+      <data key="d7">2.0</data>
+      <data key="d8">Louvre Museum</data>
+      <data key="d9">artwork</data>
+      <data key="d10">chunk-cc0303b62be8d6475395973e6c749681</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326274</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Microsoft" target="collaboration">
+      <data key="d7">2.0</data>
+      <data key="d8">Cloud Computing group</data>
+      <data key="d9">AI Research team</data>
+      <data key="d10">chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326275</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Relation Type" target="Entity 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Description</data>
+      <data key="d9">Entity 4</data>
+      <data key="d10">chunk-650eaec6ddcd392d5fffbdde2f31f777</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326275</data>
+      <data key="d13" />
+    </edge>
+    <edge source="collaboration" target="John">
+      <data key="d7">1.0</data>
+      <data key="d8">Emma</data>
+      <data key="d9">ABC Corporation</data>
+      <data key="d10">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326275</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Headquarters" target="Location">
+      <data key="d7">1.0</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">New York City</data>
+      <data key="d10">chunk-cd36d7aa03a123951e4fc5454e6c526a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326275</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John" target="reviewing">
+      <data key="d7">1.0</data>
+      <data key="d8">ABC Corporation</data>
+      <data key="d9">Financial Reports</data>
+      <data key="d10">chunk-a6cc899a18c36784c3a004b6e2134160</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1770326275</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

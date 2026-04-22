@@ -1,0 +1,6 @@
+generator_models:
+  - llama3.1:8b
+  - llama3.1:70b
+
+judge_model: llama3.1:70b
+embedding_model: mxbai-embed-large

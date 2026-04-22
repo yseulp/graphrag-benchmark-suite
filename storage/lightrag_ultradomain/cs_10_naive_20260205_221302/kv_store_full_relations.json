@@ -1,0 +1,150 @@
+{
+  "doc-346e702970e20030a533e6b90d4d7de1": {
+    "relation_pairs": [
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "Product",
+        "developed by"
+      ],
+      [
+        "John",
+        "reviewing"
+      ],
+      [
+        "has_worked_with",
+        "related_to"
+      ],
+      [
+        "Entity 1",
+        "Entity 2"
+      ],
+      [
+        "Sunflowers",
+        "painting"
+      ],
+      [
+        "Employee",
+        "works at"
+      ],
+      [
+        "Entity 1",
+        "Relation Type"
+      ],
+      [
+        "Microsoft Corporation",
+        "acquired_by"
+      ],
+      [
+        "John Doe",
+        "employs"
+      ],
+      [
+        "Company X",
+        "Product A"
+      ],
+      [
+        "CEO",
+        "John Smith"
+      ],
+      [
+        "John Smith",
+        "lives in"
+      ],
+      [
+        "New York City Hall",
+        "is-located-in"
+      ],
+      [
+        "object",
+        "subject"
+      ],
+      [
+        "Investor",
+        "invests in"
+      ],
+      [
+        "entity1",
+        "name"
+      ],
+      [
+        "Organization: ABC Corporation",
+        "headquarters"
+      ],
+      [
+        "Headquarters",
+        "Location"
+      ],
+      [
+        "Graduated-From",
+        "John Smith"
+      ],
+      [
+        "John Doe",
+        "has-aquaintance-with"
+      ],
+      [
+        "Entity 3",
+        "Relation Type"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "The Louvre Museum",
+        "houses an impressive collection of artwork"
+      ],
+      [
+        "has partnerships with",
+        "organization"
+      ],
+      [
+        "Starry Night",
+        "painting"
+      ],
+      [
+        "John Smith",
+        "works at"
+      ],
+      [
+        "is CEO of",
+        "organization"
+      ],
+      [
+        "Paris",
+        "located_in"
+      ],
+      [
+        "Person: Jane Smith",
+        "employee_of"
+      ],
+      [
+        "Microsoft",
+        "collaboration"
+      ],
+      [
+        "John",
+        "collaboration"
+      ],
+      [
+        "Wheat Field",
+        "painting"
+      ],
+      [
+        "is headquartered in",
+        "location"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1770326275,
+    "update_time": 1770326275,
+    "_id": "doc-346e702970e20030a533e6b90d4d7de1"
+  }
+}

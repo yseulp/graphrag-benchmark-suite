@@ -1,0 +1,19 @@
+{
+  "doc-c5ad491f12b2fbeaf2cbcb55c259a189": {
+    "entity_names": [
+      "person",
+      "CEO",
+      "company",
+      "employees",
+      "type",
+      "department",
+      "affected",
+      "subject",
+      "implemented_by"
+    ],
+    "count": 9,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "doc-c5ad491f12b2fbeaf2cbcb55c259a189"
+  }
+}

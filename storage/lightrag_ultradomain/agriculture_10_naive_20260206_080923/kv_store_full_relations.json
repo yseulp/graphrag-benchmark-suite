@@ -1,0 +1,646 @@
+{
+  "doc-0076674de6b44ebc3375b02ddb3d6d5c": {
+    "relation_pairs": [
+      [
+        "Industry",
+        "Software Development Finance"
+      ],
+      [
+        "John Doe",
+        "New York City"
+      ],
+      [
+        "CEO",
+        "John Smith"
+      ],
+      [
+        "XYZ Corporation",
+        "has acquired"
+      ],
+      [
+        "John Smith",
+        "Team meeting"
+      ],
+      [
+        "Google Inc.",
+        "Headquarters"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "Entity 1 Name (Entity Type)",
+        "Relation Type"
+      ],
+      [
+        "FinTech Solutions",
+        "Organization"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1770361902,
+    "update_time": 1770361902,
+    "_id": "doc-0076674de6b44ebc3375b02ddb3d6d5c"
+  },
+  "doc-3863cf622de51edc8bf820a98bb7bed2": {
+    "relation_pairs": [
+      [
+        "ABC Inc.",
+        "Partnered with"
+      ],
+      [
+        "John Smith",
+        "MEETING"
+      ],
+      [
+        "XYZ Corporation",
+        "is affiliated with"
+      ],
+      [
+        "Apple Inc.",
+        "acquired_by"
+      ],
+      [
+        "FRIEND",
+        "John Smith"
+      ],
+      [
+        "2018-06-01",
+        "Parent-Child"
+      ],
+      [
+        "ABC Inc.",
+        "Headquarters"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "John Smith",
+        "employee"
+      ],
+      [
+        "founded_by",
+        "organization"
+      ],
+      [
+        "John Smith",
+        "PARTNERSHIP_DISCUSSION"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "consists of members",
+        "management team"
+      ],
+      [
+        "John Smith",
+        "hired"
+      ],
+      [
+        "AUTHORED_BY",
+        "To Kill a Mockingbird"
+      ],
+      [
+        "ABC Inc.",
+        "hasSubsidiaries"
+      ],
+      [
+        "ABC Inc.",
+        "Founded In"
+      ],
+      [
+        "source",
+        "type"
+      ],
+      [
+        "start date",
+        "type"
+      ],
+      [
+        "sourceTo Kill a Mockingbird",
+        "typeAUTHORED_BY"
+      ],
+      [
+        "Apple Inc.",
+        "rivalry"
+      ],
+      [
+        "entity 1",
+        "type"
+      ],
+      [
+        "DEF Enterprises",
+        "subsidiaryOf"
+      ],
+      [
+        "EMPLOYEE",
+        "Facebook Inc."
+      ],
+      [
+        "XYZ Corp.",
+        "subsidiaryOf"
+      ],
+      [
+        "Steve Jobs",
+        "co-founded with"
+      ],
+      [
+        "John Smith",
+        "foundedBy"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "doc-3863cf622de51edc8bf820a98bb7bed2"
+  },
+  "doc-93ffb247e9024215dce51173164b809a": {
+    "relation_pairs": [
+      [
+        "location",
+        "organization"
+      ],
+      [
+        "Mona Lisa",
+        "created"
+      ],
+      [
+        "founder",
+        "founding"
+      ],
+      [
+        "action",
+        "type"
+      ],
+      [
+        "Eiffel Tower",
+        "Located at"
+      ],
+      [
+        "organization",
+        "person"
+      ],
+      [
+        "Whole Foods Market",
+        "acquired"
+      ],
+      [
+        "John Doe",
+        "Lives in"
+      ],
+      [
+        "Company C",
+        "Owns"
+      ],
+      [
+        "Company B",
+        "Founded By"
+      ],
+      [
+        "NASA's Johnson Space Center",
+        "located_at"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "Meeting",
+        "Tim Cook"
+      ],
+      [
+        "entity1",
+        "has attribute"
+      ],
+      [
+        "Company A",
+        "Headquartered In"
+      ],
+      [
+        "John Doe",
+        "Works for"
+      ],
+      [
+        "subordinate",
+        "type"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "012",
+        "friends with"
+      ],
+      [
+        "predicate",
+        "subject"
+      ],
+      [
+        "XYZ Corporation",
+        "headquarters"
+      ],
+      [
+        "XYZ Corporation",
+        "subsidiary"
+      ],
+      [
+        "incorrect.relation1",
+        "incorrect.type.1"
+      ],
+      [
+        "Apple Inc.",
+        "Product Development"
+      ],
+      [
+        "Employer",
+        "Entity"
+      ],
+      [
+        "Employee",
+        "John Smith"
+      ],
+      [
+        "ABC Corporation",
+        "Employment Relation"
+      ],
+      [
+        "ABC Corporation",
+        "employed_by"
+      ],
+      [
+        "Invests in",
+        "New Renewable Energy Project"
+      ],
+      [
+        "source",
+        "type"
+      ],
+      [
+        "Italy",
+        "lived_in"
+      ],
+      [
+        "entity4",
+        "has association"
+      ],
+      [
+        "Organization",
+        "founded_by"
+      ],
+      [
+        "PayPal",
+        "co-founded"
+      ],
+      [
+        "Apple",
+        "is led by"
+      ],
+      [
+        "entity9",
+        "has attribute"
+      ],
+      [
+        "CEO",
+        "division leadership"
+      ],
+      [
+        "Founded By",
+        "John Doe"
+      ],
+      [
+        "789",
+        "knows"
+      ],
+      [
+        "Built by",
+        "Gustave Eiffel"
+      ],
+      [
+        "SpaceX",
+        "founded"
+      ],
+      [
+        "John Smith",
+        "specializes in"
+      ],
+      [
+        "Entity A",
+        "type"
+      ],
+      [
+        "Employed",
+        "Person"
+      ],
+      [
+        "John Smith",
+        "has been working at"
+      ],
+      [
+        "id",
+        "type"
+      ],
+      [
+        "entity2",
+        "is related to"
+      ],
+      [
+        "name",
+        "type"
+      ],
+      [
+        "correct.relation2",
+        "correct.type.2"
+      ],
+      [
+        "John Smith",
+        "Project Collaborator"
+      ],
+      [
+        "colleague",
+        "type"
+      ],
+      [
+        "entity6",
+        "is a part of"
+      ]
+    ],
+    "count": 52,
+    "create_time": 1770362464,
+    "update_time": 1770362464,
+    "_id": "doc-93ffb247e9024215dce51173164b809a"
+  },
+  "doc-8ba9cf28f854255d709c64b18a2eb76b": {
+    "relation_pairs": [
+      [
+        "John Smith",
+        "met with"
+      ],
+      [
+        "John Smith",
+        "employeeOf"
+      ],
+      [
+        "John Smith",
+        "authorship"
+      ],
+      [
+        "Relation 1",
+        "Type 1"
+      ],
+      [
+        "John Smith",
+        "collaborated with"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "by",
+        "visited"
+      ],
+      [
+        "Alice",
+        "visited_by"
+      ],
+      [
+        "John Smith",
+        "editorial"
+      ],
+      [
+        "This is a relationship between two entities",
+        "Type A"
+      ],
+      [
+        "John Smith",
+        "collaboration"
+      ],
+      [
+        "CEOs",
+        "Entity 2"
+      ],
+      [
+        "ABC Corp.",
+        "founded-by"
+      ],
+      [
+        "XYZ Corporation",
+        "headquarters"
+      ],
+      [
+        "John Smith",
+        "Works At"
+      ],
+      [
+        "This is another relationship between two entities",
+        "Type B"
+      ],
+      [
+        "Emma Smith",
+        "works-at"
+      ],
+      [
+        "John Smith",
+        "worked for"
+      ],
+      [
+        "Emma Smith",
+        "colleague-of"
+      ],
+      [
+        "John Doe",
+        "employed-by"
+      ],
+      [
+        "XYZ Inc.",
+        "partnership"
+      ],
+      [
+        "Claude Monet",
+        "hosted"
+      ],
+      [
+        "entity1",
+        "has-part"
+      ],
+      [
+        "Penguin Books",
+        "publication"
+      ],
+      [
+        "Relation 2",
+        "Type 2"
+      ],
+      [
+        "Jane Doe",
+        "reportsTo"
+      ],
+      [
+        "(entity 1)",
+        "(relation type)"
+      ],
+      [
+        "label",
+        "type"
+      ],
+      [
+        "Emily Chen",
+        "led by"
+      ],
+      [
+        "collaboration",
+        "worked with"
+      ],
+      [
+        "John Doe",
+        "resides-in"
+      ],
+      [
+        "ABC Inc.",
+        "managed-by"
+      ],
+      [
+        "description",
+        "type"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1770363110,
+    "update_time": 1770363110,
+    "_id": "doc-8ba9cf28f854255d709c64b18a2eb76b"
+  },
+  "doc-a2288e3ad0caf87176dce26f27b46fcf": {
+    "relation_pairs": [
+      [
+        "Relation1",
+        "This is Relation 1"
+      ],
+      [
+        "entity2_id",
+        "type"
+      ],
+      [
+        "entity1_id",
+        "type"
+      ],
+      [
+        "John Smith",
+        "is CEO of"
+      ],
+      [
+        "source=Emily Chen",
+        "target=ABC Inc."
+      ],
+      [
+        "source=John Smith",
+        "target=ABC Inc."
+      ],
+      [
+        "XYZ Corporation",
+        "has headquarters in"
+      ],
+      [
+        "John Smith",
+        "employee"
+      ],
+      [
+        "description",
+        "label"
+      ],
+      [
+        "John Smith",
+        "colleague"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "entity_name3",
+        "relationship_name2"
+      ],
+      [
+        "Alexander Petrov",
+        "family_relation"
+      ],
+      [
+        "Japan",
+        "capital of"
+      ],
+      [
+        "John Smith",
+        "friendship"
+      ],
+      [
+        "Tokyo",
+        "located in"
+      ],
+      [
+        "source",
+        "target"
+      ],
+      [
+        "John Doe Foundation",
+        "donated to"
+      ],
+      [
+        "EVENT,entity",
+        "received international attention"
+      ],
+      [
+        "CEO",
+        "Jane Doe"
+      ],
+      [
+        "source",
+        "type"
+      ],
+      [
+        "John Doe",
+        "lives_in"
+      ],
+      [
+        "Affiliated_with",
+        "Entity"
+      ],
+      [
+        "entity_name1",
+        "relationship_name1"
+      ],
+      [
+        "Kawasaki",
+        "neighbor to"
+      ],
+      [
+        "Entity A",
+        "Is-A"
+      ],
+      [
+        "ABC Inc.",
+        "acquired by"
+      ],
+      [
+        "entity4_name",
+        "type"
+      ],
+      [
+        "Yokohama",
+        "neighbor to"
+      ]
+    ],
+    "count": 29,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "doc-a2288e3ad0caf87176dce26f27b46fcf"
+  }
+}

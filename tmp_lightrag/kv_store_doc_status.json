@@ -1,0 +1,53 @@
+{
+  "doc-7c0c6daf966687a66c6d0e51362307c2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7c0c6daf966687a66c6d0e51362307c2"
+    ],
+    "content_summary": "UltraDomain is a benchmark dataset for evaluating retrieval-augmented generation (RAG) systems.",
+    "content_length": 95,
+    "created_at": "2025-12-12T18:59:51.844353+00:00",
+    "updated_at": "2025-12-12T19:00:40.138223+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251212_195951_c6a52aa7",
+    "metadata": {
+      "processing_start_time": 1765565991,
+      "processing_end_time": 1765566040
+    }
+  },
+  "doc-c5ad491f12b2fbeaf2cbcb55c259a189": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "content_summary": "PTW is an institute at TU Darmstadt.",
+    "content_length": 36,
+    "created_at": "2025-12-12T19:00:40.141634+00:00",
+    "updated_at": "2025-12-12T19:00:44.685712+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251212_200040_ecd5924e",
+    "metadata": {
+      "processing_start_time": 1765566040,
+      "processing_end_time": 1765566044
+    }
+  },
+  "doc-05cf95fa6831a9f7121040a0ec9b6ffc": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-05cf95fa6831a9f7121040a0ec9b6ffc"
+    ],
+    "content_summary": "Ollama runs LLMs locally.",
+    "content_length": 25,
+    "created_at": "2025-12-12T19:00:44.691692+00:00",
+    "updated_at": "2025-12-12T19:00:45.915835+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251212_200044_827a58ee",
+    "metadata": {
+      "processing_start_time": 1765566044,
+      "processing_end_time": 1765566045
+    }
+  }
+}

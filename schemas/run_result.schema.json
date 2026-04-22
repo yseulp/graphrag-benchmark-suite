@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UltraDomain Benchmark Result Row",
+  "type": "object",
+  "required": [
+    "id",
+    "domain",
+    "question",
+    "gold_answer",
+    "method",
+    "pred_answer",
+    "retrieved_texts",
+    "retrieval_token_cost",
+    "retrieval_time_ms",
+    "latency_ms",
+    "exact_match",
+    "token_f1",
+    "precision",
+    "recall",
+    "judge"
+  ],
+  "properties": {
+    "id": { "type": "integer" },
+    "domain": { "type": "string" },
+    "question": { "type": "string" },
+    "gold_answer": { "type": "string" },
+    "query_category": { "type": "string" },
+    "task_group": { "type": "string" },
+    "method": { "type": "string" },
+    "pred_answer": { "type": "string" },
+    "retrieved_texts": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "retrieval_token_cost": { "type": "number" },
+    "retrieval_time_ms": { "type": "number" },
+    "latency_ms": { "type": "number" },
+    "exact_match": { "type": "number" },
+    "token_f1": { "type": "number" },
+    "precision": { "type": "number" },
+    "recall": { "type": "number" },
+    "judge": {
+      "type": "object",
+      "properties": {
+        "correctness": { "type": "number" },
+        "relevance": { "type": "number" },
+        "comprehensiveness": { "type": "number" },
+        "diversity": { "type": "number" },
+        "logical_consistency": { "type": "number" },
+        "coherence": { "type": "number" },
+        "groundedness": { "type": "number" },
+        "justification": { "type": "string" }
+      },
+      "required": [
+        "correctness",
+        "relevance",
+        "comprehensiveness",
+        "diversity",
+        "logical_consistency",
+        "coherence",
+        "groundedness",
+        "justification"
+      ]
+    },
+    "raw": {}
+  }
+}

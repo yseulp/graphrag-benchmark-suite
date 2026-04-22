@@ -1,0 +1,718 @@
+{
+  "published_in": {
+    "chunk_ids": [
+      "chunk-6cb23a89c56eb7305f4d59c18e963606"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "published_in"
+  },
+  "written_by": {
+    "chunk_ids": [
+      "chunk-6aac13cf774302335482341ae7bd5900"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "written_by"
+  },
+  "set_in": {
+    "chunk_ids": [
+      "chunk-6aac13cf774302335482341ae7bd5900"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "set_in"
+  },
+  "main_character": {
+    "chunk_ids": [
+      "chunk-6aac13cf774302335482341ae7bd5900"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "main_character"
+  },
+  "love_interest": {
+    "chunk_ids": [
+      "chunk-6aac13cf774302335482341ae7bd5900"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "love_interest"
+  },
+  "married_to": {
+    "chunk_ids": [
+      "chunk-6aac13cf774302335482341ae7bd5900"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "married_to"
+  },
+  "ABC Corporation": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "ABC Corporation"
+  },
+  "XYZ Group": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "XYZ Group"
+  },
+  "John Smith": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd",
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 2,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "John Smith"
+  },
+  "entity_name1": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "entity_name1"
+  },
+  "entity_name2": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "entity_name2"
+  },
+  "affects": {
+    "chunk_ids": [
+      "chunk-16b751067c3efab866b7fe2f69024707"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "affects"
+  },
+  "type": {
+    "chunk_ids": [
+      "chunk-0079f74e327f5a0de67e7f83d37157c7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "type"
+  },
+  "Organization": {
+    "chunk_ids": [
+      "chunk-0079f74e327f5a0de67e7f83d37157c7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "Organization"
+  },
+  "Location": {
+    "chunk_ids": [
+      "chunk-0079f74e327f5a0de67e7f83d37157c7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "Location"
+  },
+  "works for": {
+    "chunk_ids": [
+      "chunk-0079f74e327f5a0de67e7f83d37157c7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "works for"
+  },
+  "located in": {
+    "chunk_ids": [
+      "chunk-0079f74e327f5a0de67e7f83d37157c7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "located in"
+  },
+  "announced by": {
+    "chunk_ids": [
+      "chunk-a83de07043553ff00572b237f5721a5b"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "announced by"
+  },
+  "John": {
+    "chunk_ids": [
+      "chunk-a3d84cbc4436959f3e2bb375371dc52e"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "John"
+  },
+  "Person Name": {
+    "chunk_ids": [
+      "chunk-af1f492cc20cdba3e972d305c10112a7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "Person Name"
+  },
+  "Organization Name": {
+    "chunk_ids": [
+      "chunk-af1f492cc20cdba3e972d305c10112a7"
+    ],
+    "count": 1,
+    "create_time": 1770325639,
+    "update_time": 1770325639,
+    "_id": "Organization Name"
+  },
+  "Bistro Bliss": {
+    "chunk_ids": [
+      "chunk-97e0894a1a49ab45ace413d94a9d670c"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Bistro Bliss"
+  },
+  "chef": {
+    "chunk_ids": [
+      "chunk-97e0894a1a49ab45ace413d94a9d670c"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "chef"
+  },
+  "Main Street": {
+    "chunk_ids": [
+      "chunk-97e0894a1a49ab45ace413d94a9d670c"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Main Street"
+  },
+  "name": {
+    "chunk_ids": [
+      "chunk-b5b33e796a4be70c46676db8dd1f5066",
+      "chunk-a21277e4f402468918e855a72e6d1f8c",
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 3,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "name"
+  },
+  "Apple": {
+    "chunk_ids": [
+      "chunk-77026d1381c43f785746d9aa65c34df2"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Apple"
+  },
+  "Google": {
+    "chunk_ids": [
+      "chunk-77026d1381c43f785746d9aa65c34df2",
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 2,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Google"
+  },
+  "Tim Cook": {
+    "chunk_ids": [
+      "chunk-024736f26737b3282e953abc190e45c2"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Tim Cook"
+  },
+  "Chinese government officials": {
+    "chunk_ids": [
+      "chunk-024736f26737b3282e953abc190e45c2"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Chinese government officials"
+  },
+  "Relation1": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Relation1"
+  },
+  "Relation2": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Relation2"
+  },
+  "ManagerOf": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "ManagerOf"
+  },
+  "Member Of": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Member Of"
+  },
+  "CollaborateWith": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "CollaborateWith"
+  },
+  "John Doe": {
+    "chunk_ids": [
+      "chunk-a21277e4f402468918e855a72e6d1f8c",
+      "chunk-9209e29e5b24f7ce738e6b303a056390"
+    ],
+    "count": 2,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "John Doe"
+  },
+  "XYZ Corporation": {
+    "chunk_ids": [
+      "chunk-a21277e4f402468918e855a72e6d1f8c"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "XYZ Corporation"
+  },
+  "Name": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "Name"
+  },
+  "New York City": {
+    "chunk_ids": [
+      "chunk-9209e29e5b24f7ce738e6b303a056390",
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 2,
+    "update_time": 1770325642,
+    "_id": "New York City"
+  },
+  "headquartered_in": {
+    "chunk_ids": [
+      "chunk-9209e29e5b24f7ce738e6b303a056390"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "headquartered_in"
+  },
+  "employs": {
+    "chunk_ids": [
+      "chunk-9209e29e5b24f7ce738e6b303a056390"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "employs"
+  },
+  "author_of": {
+    "chunk_ids": [
+      "chunk-1bfcd782b277965ad1b163aae96ad546"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "author_of"
+  },
+  "located_in": {
+    "chunk_ids": [
+      "chunk-1bfcd782b277965ad1b163aae96ad546",
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 2,
+    "update_time": 1770325641,
+    "_id": "located_in"
+  },
+  "editor_of": {
+    "chunk_ids": [
+      "chunk-1bfcd782b277965ad1b163aae96ad546"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "editor_of"
+  },
+  "near": {
+    "chunk_ids": [
+      "chunk-246dbb37aa0bfca69aba3665ee216cf3"
+    ],
+    "count": 1,
+    "create_time": 1770325640,
+    "update_time": 1770325640,
+    "_id": "near"
+  },
+  "TechCorp": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "TechCorp"
+  },
+  "Jane Doe": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "Jane Doe"
+  },
+  "entity1": {
+    "chunk_ids": [
+      "chunk-4d722e32eea1d984079ec837698a9331",
+      "chunk-a21277e4f402468918e855a72e6d1f8c"
+    ],
+    "count": 2,
+    "update_time": 1770325642,
+    "_id": "entity1"
+  },
+  "owned_by": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "owned_by"
+  },
+  "entity_name3": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "entity_name3"
+  },
+  "The Louvre Museum": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "The Louvre Museum"
+  },
+  "relation_name1": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "relation_name1"
+  },
+  "attracts": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "attracts"
+  },
+  "relation_type": {
+    "chunk_ids": [
+      "chunk-4d722e32eea1d984079ec837698a9331"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "relation_type"
+  },
+  "relation_name2": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "relation_name2"
+  },
+  "millions of visitors": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "millions of visitors"
+  },
+  "headed_by": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "headed_by"
+  },
+  "`**Entity Involved (1)**`": {
+    "chunk_ids": [
+      "chunk-fdc473291b0a2811f146885b0df8ee04"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "`**Entity Involved (1)**`"
+  },
+  "works_at": {
+    "chunk_ids": [
+      "chunk-a3d84cbc4436959f3e2bb375371dc52e"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "works_at"
+  },
+  "field1": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "field1"
+  },
+  "John is a member of": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "John is a member of"
+  },
+  "`**Type of Relationship**`": {
+    "chunk_ids": [
+      "chunk-fdc473291b0a2811f146885b0df8ee04"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "`**Type of Relationship**`"
+  },
+  "field2": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "field2"
+  },
+  "houses": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "houses"
+  },
+  "John Doe Lives In": {
+    "chunk_ids": [
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "John Doe Lives In"
+  },
+  "United Nations": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "United Nations"
+  },
+  "Google Founded By": {
+    "chunk_ids": [
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Google Founded By"
+  },
+  "Larry Page and Sergey Brin": {
+    "chunk_ids": [
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Larry Page and Sergey Brin"
+  },
+  "Employee-Works-for": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Employee-Works-for"
+  },
+  "entity2": {
+    "chunk_ids": [
+      "chunk-a21277e4f402468918e855a72e6d1f8c"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "entity2"
+  },
+  "Jane works for": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Jane works for"
+  },
+  "Company X": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Company X"
+  },
+  "Galactic Innovations": {
+    "chunk_ids": [
+      "chunk-9209e29e5b24f7ce738e6b303a056390"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Galactic Innovations"
+  },
+  "Entity1": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Entity1"
+  },
+  "organization": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "organization"
+  },
+  "Company X-Employees": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Company X-Employees"
+  },
+  "Company A": {
+    "chunk_ids": [
+      "chunk-673f15ce9e5e1136ab1eaef6161676cd"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Company A"
+  },
+  "partOf": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "partOf"
+  },
+  "Hires": {
+    "chunk_ids": [
+      "chunk-673f15ce9e5e1136ab1eaef6161676cd"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Hires"
+  },
+  "partneredWith": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "partneredWith"
+  }
+}

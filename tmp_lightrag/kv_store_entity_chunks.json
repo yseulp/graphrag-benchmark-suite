@@ -1,0 +1,83 @@
+{
+  "type": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "type"
+  },
+  "company": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "company"
+  },
+  "person": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "person"
+  },
+  "department": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "department"
+  },
+  "subject": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "subject"
+  },
+  "CEO": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "CEO"
+  },
+  "affected": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "affected"
+  },
+  "implemented_by": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "implemented_by"
+  },
+  "employees": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "employees"
+  }
+}

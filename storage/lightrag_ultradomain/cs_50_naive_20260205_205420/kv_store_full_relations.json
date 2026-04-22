@@ -1,0 +1,694 @@
+{
+  "doc-346e702970e20030a533e6b90d4d7de1": {
+    "relation_pairs": [
+      [
+        "tourists",
+        "visited_by"
+      ],
+      [
+        "ABC Corporation",
+        "Founded_by"
+      ],
+      [
+        "discussed",
+        "financial reports"
+      ],
+      [
+        "Cupertino",
+        "headquarters"
+      ],
+      [
+        "John Smith",
+        "manages"
+      ],
+      [
+        "Employment Relation",
+        "John Smith"
+      ],
+      [
+        "John Smith",
+        "works_for"
+      ],
+      [
+        "Company A",
+        "merged_with"
+      ],
+      [
+        "source",
+        "type"
+      ],
+      [
+        "CEO_of",
+        "Tesla Inc."
+      ],
+      [
+        "Home to",
+        "New York"
+      ],
+      [
+        "John Smith",
+        "works for"
+      ],
+      [
+        "Jane Doe",
+        "has a friend"
+      ],
+      [
+        "Paris",
+        "located_in"
+      ],
+      [
+        "John Smith",
+        "met_with"
+      ],
+      [
+        "Steve Jobs",
+        "co_founders"
+      ],
+      [
+        "John Smith",
+        "Studied at"
+      ],
+      [
+        "A company was founded by its founder",
+        "Founded by"
+      ],
+      [
+        "Tesla Inc.",
+        "headquartered_in"
+      ],
+      [
+        "Collaborates_with",
+        "Jane Smith"
+      ],
+      [
+        "Entity 1",
+        "Relation Type"
+      ],
+      [
+        "A person lives in a city",
+        "Lives in"
+      ],
+      [
+        "Emily",
+        "Owns a restaurant in"
+      ],
+      [
+        "Tesla Inc.",
+        "owned_by"
+      ],
+      [
+        "Entity 1",
+        "Visited with"
+      ],
+      [
+        "Description",
+        "Name"
+      ],
+      [
+        "Known as",
+        "Paris"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "Eiffel Tower",
+        "Located in"
+      ],
+      [
+        "Emily Lee",
+        "works with"
+      ],
+      [
+        "ABC Corporation",
+        "Date Range"
+      ],
+      [
+        "Bob Johnson",
+        "has a friend"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "John Smith",
+        "works with"
+      ],
+      [
+        "Company XYZ",
+        "works for"
+      ],
+      [
+        "John Doe",
+        "Works_with"
+      ],
+      [
+        "entity2",
+        "type"
+      ],
+      [
+        "John Smith",
+        "friendship"
+      ]
+    ],
+    "count": 38,
+    "create_time": 1770321526,
+    "update_time": 1770321526,
+    "_id": "doc-346e702970e20030a533e6b90d4d7de1"
+  },
+  "doc-b9954ab0840ad3f6758e12985426fa87": {
+    "relation_pairs": [
+      [
+        "Google",
+        "partners_with"
+      ],
+      [
+        "Operates in",
+        "Organization XYZ"
+      ],
+      [
+        "Subject",
+        "Type"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "Employee",
+        "John Smith"
+      ],
+      [
+        "Headquarters Located In",
+        "New York City"
+      ],
+      [
+        "entity1_name",
+        "relation_type"
+      ],
+      [
+        "Another Relationship Type",
+        "Entity C"
+      ],
+      [
+        "entity1",
+        "relationship_type"
+      ],
+      [
+        "Microsoft",
+        "collaborates_with"
+      ],
+      [
+        "John Smith",
+        "worked_at"
+      ],
+      [
+        "ABC Inc.",
+        "founded-by"
+      ],
+      [
+        "New York City",
+        "from city"
+      ],
+      [
+        "Headquarters Of",
+        "Organization XYZ"
+      ],
+      [
+        "John Smith",
+        "met_with"
+      ],
+      [
+        "COLLABORATION",
+        "XYZ Inc."
+      ],
+      [
+        "Entity1",
+        "part_of"
+      ],
+      [
+        "Entity A",
+        "Relationship Type"
+      ],
+      [
+        "John Doe",
+        "Works At"
+      ],
+      [
+        "Apple Inc.",
+        "is headquartered in"
+      ],
+      [
+        "Manager of",
+        "Organization XYZ"
+      ],
+      [
+        "entity1_id",
+        "is an expert in"
+      ],
+      [
+        "$1 billion in renewable energy sources",
+        "Investment"
+      ],
+      [
+        "John Smith",
+        "collaborated_with_Maria_Rodriguez_on_project"
+      ],
+      [
+        "John Smith",
+        "worked at"
+      ],
+      [
+        "Collaboration",
+        "in talks about electric vehicle project"
+      ],
+      [
+        "text",
+        "type"
+      ],
+      [
+        "source_entity",
+        "target_entity"
+      ],
+      [
+        "Dr. Maria Rodriguez",
+        "collaborated with"
+      ],
+      [
+        "Headquartered in New York City",
+        "LOCATED_IN"
+      ],
+      [
+        "entity1_id",
+        "relation_type"
+      ],
+      [
+        "CEO",
+        "John Smith"
+      ],
+      [
+        "ABC Corporation",
+        "Headquarters"
+      ],
+      [
+        "Employee of Google",
+        "WORKS_FOR"
+      ],
+      [
+        "CEO_of",
+        "John Smith"
+      ],
+      [
+        "discussing",
+        "possible collaboration"
+      ],
+      [
+        "entity1",
+        "relation_type"
+      ],
+      [
+        "company",
+        "founded_by"
+      ],
+      [
+        "Google",
+        "foundedBy"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "MEETS_WITH",
+        "PERSON"
+      ],
+      [
+        "Google",
+        "founded_by"
+      ],
+      [
+        "XYZ Inc.",
+        "acquired_by"
+      ],
+      [
+        "Company X",
+        "Subsidiary Of"
+      ],
+      [
+        "Acquisition",
+        "Microsoft Corporation"
+      ],
+      [
+        "Stanford University's computer science department",
+        "part_of"
+      ],
+      [
+        "Entity1",
+        "Relation Type"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "Founding CEO",
+        "Name"
+      ],
+      [
+        "Bill Gates",
+        "Melinda French Gates"
+      ],
+      [
+        "HEAD_OF",
+        "XYZ Corporation"
+      ],
+      [
+        "predicate",
+        "subject"
+      ],
+      [
+        "company",
+        "headquartered_in"
+      ],
+      [
+        "CEO of Company X",
+        "Jane Smith"
+      ],
+      [
+        "Entity2",
+        "owns"
+      ],
+      [
+        "Headquarters",
+        "Location"
+      ],
+      [
+        "ABC Inc.",
+        "headquarters"
+      ],
+      [
+        "Entity 1",
+        "Relationship Type"
+      ],
+      [
+        "Entity A",
+        "MissedRelation1"
+      ],
+      [
+        "CorrectedRelation2",
+        "IncorrectlyFormattedEntity2"
+      ],
+      [
+        "description",
+        "type"
+      ],
+      [
+        "John Smith",
+        "WORKS_WITH"
+      ],
+      [
+        "object_id",
+        "subject_id"
+      ],
+      [
+        "Bill Gates",
+        "Microsoft"
+      ],
+      [
+        "John Doe",
+        "Lives In"
+      ]
+    ],
+    "count": 65,
+    "create_time": 1770322927,
+    "update_time": 1770322927,
+    "_id": "doc-b9954ab0840ad3f6758e12985426fa87"
+  },
+  "doc-2aad6eb200791fd6524f11af27bc48c8": {
+    "relation_pairs": [
+      [
+        "Harper Lee",
+        "written by"
+      ],
+      [
+        "Tim Cook",
+        "met with"
+      ],
+      [
+        "John Smith",
+        "works on"
+      ],
+      [
+        "Atticus Finch",
+        "defended by"
+      ],
+      [
+        "city",
+        "home_to"
+      ],
+      [
+        "Apple Inc.",
+        "founded by"
+      ],
+      [
+        "New York",
+        "Resides In"
+      ],
+      [
+        "John Smith",
+        "manages"
+      ],
+      [
+        "Company X",
+        "owns"
+      ],
+      [
+        "Microsoft",
+        "collaborates_with"
+      ],
+      [
+        "John Smith",
+        "works for"
+      ],
+      [
+        "Headquartered In",
+        "New York City, USA"
+      ],
+      [
+        "EMPLOYS",
+        "John Doe"
+      ],
+      [
+        "Turi Create",
+        "acquired_by"
+      ],
+      [
+        "John Doe",
+        "employee_of"
+      ],
+      [
+        "Stanford University",
+        "WORKS_AT"
+      ],
+      [
+        "13 million people",
+        "has population of over"
+      ],
+      [
+        "The New York Times",
+        "reported by"
+      ],
+      [
+        "Google",
+        "HEADQUARTERS_OF"
+      ],
+      [
+        "Apple Inc.",
+        "acquired company"
+      ],
+      [
+        "Founded By",
+        "John Doe"
+      ],
+      [
+        "entity1",
+        "relation_type"
+      ],
+      [
+        "Pierre Dupont",
+        "led by"
+      ],
+      [
+        "ancient artifacts",
+        "has an impressive collection of"
+      ],
+      [
+        "art museums",
+        "is known for"
+      ],
+      [
+        "Silicon Valley Analytics",
+        "acquired_by"
+      ],
+      [
+        "entity1",
+        "type"
+      ],
+      [
+        "John Doe",
+        "founded_by"
+      ],
+      [
+        "COLLABORATION",
+        "Dr. Maria Rodriguez"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "Entity A",
+        "correction"
+      ],
+      [
+        "Apple",
+        "CEO_of"
+      ],
+      [
+        "Hospital X",
+        "Works For"
+      ],
+      [
+        "John Doe",
+        "Works For"
+      ],
+      [
+        "features",
+        "iconic landmark"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1770323591,
+    "update_time": 1770323591,
+    "_id": "doc-2aad6eb200791fd6524f11af27bc48c8"
+  },
+  "doc-1d2a34c3012aaa47d39345e7bbe1a28a": {
+    "relation_pairs": [
+      [
+        "Person",
+        "alumni of"
+      ],
+      [
+        "Located in",
+        "entity2"
+      ],
+      [
+        "Knows",
+        "entity1"
+      ],
+      [
+        "John Smith",
+        "marriage"
+      ],
+      [
+        "entity1_id",
+        "entity2_id"
+      ],
+      [
+        "Relationship Type",
+        "Source Entity ID"
+      ],
+      [
+        "Supervises",
+        "entity1"
+      ],
+      [
+        "entities",
+        "team_meet_representatives"
+      ],
+      [
+        "entity1 ID",
+        "relationship type"
+      ],
+      [
+        "University",
+        "is located in"
+      ],
+      [
+        "sub-type",
+        "type"
+      ],
+      [
+        "different relationship type",
+        "other entity ID"
+      ],
+      [
+        "John Smith",
+        "met with"
+      ],
+      [
+        "related entity 1",
+        "relationship type"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "John Smith",
+        "friendship"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1770323813,
+    "update_time": 1770323813,
+    "_id": "doc-1d2a34c3012aaa47d39345e7bbe1a28a"
+  },
+  "doc-a5f131207926b7050ded94c16e1db9bd": {
+    "relation_pairs": [
+      [
+        "John Doe is an employee of Microsoft Corporation.",
+        "works_for"
+      ],
+      [
+        "PARENT_OF",
+        "Person"
+      ],
+      [
+        "description",
+        "type"
+      ],
+      [
+        "Employment",
+        "John Smith"
+      ],
+      [
+        "MARRIED_TO",
+        "Person"
+      ],
+      [
+        "headquarter_of",
+        "location"
+      ],
+      [
+        "subject",
+        "type"
+      ],
+      [
+        "EMPLOYEE_OF",
+        "Person"
+      ],
+      [
+        "parent_company",
+        "subsidiary_of"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1770325286,
+    "update_time": 1770325286,
+    "_id": "doc-a5f131207926b7050ded94c16e1db9bd"
+  }
+}

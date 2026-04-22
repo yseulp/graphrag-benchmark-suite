@@ -1,0 +1,23 @@
+{
+  "doc-7c0c6daf966687a66c6d0e51362307c2": {
+    "content": "UltraDomain is a benchmark dataset for evaluating retrieval-augmented generation (RAG) systems.",
+    "file_path": "unknown_source",
+    "create_time": 1765565991,
+    "update_time": 1765565991,
+    "_id": "doc-7c0c6daf966687a66c6d0e51362307c2"
+  },
+  "doc-c5ad491f12b2fbeaf2cbcb55c259a189": {
+    "content": "PTW is an institute at TU Darmstadt.",
+    "file_path": "unknown_source",
+    "create_time": 1765566040,
+    "update_time": 1765566040,
+    "_id": "doc-c5ad491f12b2fbeaf2cbcb55c259a189"
+  },
+  "doc-05cf95fa6831a9f7121040a0ec9b6ffc": {
+    "content": "Ollama runs LLMs locally.",
+    "file_path": "unknown_source",
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "doc-05cf95fa6831a9f7121040a0ec9b6ffc"
+  }
+}

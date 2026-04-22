@@ -1,0 +1,44 @@
+{
+  "chunk-7c0c6daf966687a66c6d0e51362307c2": {
+    "tokens": 19,
+    "content": "UltraDomain is a benchmark dataset for evaluating retrieval-augmented generation (RAG) systems.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-7c0c6daf966687a66c6d0e51362307c2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:dc19350e2ae326d0d557ca8d131e9380",
+      "default:extract:57c45ef53d8b92966f517445a45269ec"
+    ],
+    "create_time": 1765565991,
+    "update_time": 1765566040,
+    "_id": "chunk-7c0c6daf966687a66c6d0e51362307c2"
+  },
+  "chunk-c5ad491f12b2fbeaf2cbcb55c259a189": {
+    "tokens": 10,
+    "content": "PTW is an institute at TU Darmstadt.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c5ad491f12b2fbeaf2cbcb55c259a189",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5816b564257152c3e8d46ad3f14658b4",
+      "default:extract:b2250935c4ecc57d7aef2a707fad3b40"
+    ],
+    "create_time": 1765566040,
+    "update_time": 1765566044,
+    "_id": "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+  },
+  "chunk-05cf95fa6831a9f7121040a0ec9b6ffc": {
+    "tokens": 9,
+    "content": "Ollama runs LLMs locally.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-05cf95fa6831a9f7121040a0ec9b6ffc",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9a7d7f317ef9e4c81626fc6c47626aa2",
+      "default:extract:bba2865be0ac1b98672a771932745c6d"
+    ],
+    "create_time": 1765566044,
+    "update_time": 1765566045,
+    "_id": "chunk-05cf95fa6831a9f7121040a0ec9b6ffc"
+  }
+}

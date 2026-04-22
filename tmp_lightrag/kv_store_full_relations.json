@@ -1,0 +1,22 @@
+{
+  "doc-c5ad491f12b2fbeaf2cbcb55c259a189": {
+    "relation_pairs": [
+      [
+        "CEO",
+        "implemented_by"
+      ],
+      [
+        "affected",
+        "employees"
+      ],
+      [
+        "subject",
+        "type"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "doc-c5ad491f12b2fbeaf2cbcb55c259a189"
+  }
+}

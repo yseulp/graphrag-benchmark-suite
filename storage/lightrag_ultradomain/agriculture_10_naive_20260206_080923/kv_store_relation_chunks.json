@@ -1,0 +1,1632 @@
+{
+  "Entity 1 Name (Entity Type)<SEP>Relation Type": {
+    "chunk_ids": [
+      "chunk-27f6271ed08f494278ee4aa9601556c4"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "Entity 1 Name (Entity Type)<SEP>Relation Type"
+  },
+  "entity1<SEP>entity2": {
+    "chunk_ids": [
+      "chunk-b71c661e88d96156e87449e9332b56ce",
+      "chunk-74e3df5ce7be88ffd8bdf29e5b896da3",
+      "chunk-3ad5716c9ff65294108cb908fec2e2c8"
+    ],
+    "count": 3,
+    "update_time": 1770363106,
+    "_id": "entity1<SEP>entity2"
+  },
+  "John Doe<SEP>New York City": {
+    "chunk_ids": [
+      "chunk-b71c661e88d96156e87449e9332b56ce"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "John Doe<SEP>New York City"
+  },
+  "CEO<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-3646f7feb4b27315450c6eb80594e753"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "CEO<SEP>John Smith"
+  },
+  "Google Inc.<SEP>Headquarters": {
+    "chunk_ids": [
+      "chunk-3646f7feb4b27315450c6eb80594e753"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "Google Inc.<SEP>Headquarters"
+  },
+  "XYZ Corporation<SEP>has acquired": {
+    "chunk_ids": [
+      "chunk-92090c6a7f40e420c9b8e4d961a9a21b"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "XYZ Corporation<SEP>has acquired"
+  },
+  "Industry<SEP>Software Development Finance": {
+    "chunk_ids": [
+      "chunk-da9216023ced68a9aa545d43ca1d419f"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "Industry<SEP>Software Development Finance"
+  },
+  "FinTech Solutions<SEP>Organization": {
+    "chunk_ids": [
+      "chunk-da9216023ced68a9aa545d43ca1d419f"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "FinTech Solutions<SEP>Organization"
+  },
+  "John Smith<SEP>Team meeting": {
+    "chunk_ids": [
+      "chunk-3646f7feb4b27315450c6eb80594e753"
+    ],
+    "count": 1,
+    "create_time": 1770361901,
+    "update_time": 1770361901,
+    "_id": "John Smith<SEP>Team meeting"
+  },
+  "entity 1<SEP>type": {
+    "chunk_ids": [
+      "chunk-f0a5052e04a7b64a097459ad1bd8a957"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "entity 1<SEP>type"
+  },
+  "FRIEND<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-f0a5052e04a7b64a097459ad1bd8a957"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "FRIEND<SEP>John Smith"
+  },
+  "EMPLOYEE<SEP>Facebook Inc.": {
+    "chunk_ids": [
+      "chunk-f0a5052e04a7b64a097459ad1bd8a957"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "EMPLOYEE<SEP>Facebook Inc."
+  },
+  "ABC Inc.<SEP>hasSubsidiaries": {
+    "chunk_ids": [
+      "chunk-9c07830327394a77dc9e8ac1a53acd63"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "ABC Inc.<SEP>hasSubsidiaries"
+  },
+  "XYZ Corp.<SEP>subsidiaryOf": {
+    "chunk_ids": [
+      "chunk-9c07830327394a77dc9e8ac1a53acd63"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "XYZ Corp.<SEP>subsidiaryOf"
+  },
+  "entity1<SEP>type": {
+    "chunk_ids": [
+      "chunk-fb9d28e4a28ca972c9e289441c78c0be",
+      "chunk-1e03533555109549978c4b517473a757",
+      "chunk-4245a3f203f1689ccc49f304e32bace5"
+    ],
+    "count": 3,
+    "update_time": 1770363106,
+    "_id": "entity1<SEP>type"
+  },
+  "John Smith<SEP>foundedBy": {
+    "chunk_ids": [
+      "chunk-9c07830327394a77dc9e8ac1a53acd63"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "John Smith<SEP>foundedBy"
+  },
+  "ABC Inc.<SEP>Partnered with": {
+    "chunk_ids": [
+      "chunk-736ea6711636125c220e214941062b61"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "ABC Inc.<SEP>Partnered with"
+  },
+  "AUTHORED_BY<SEP>To Kill a Mockingbird": {
+    "chunk_ids": [
+      "chunk-445fbff3137d26bce84d879934fb156e"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "AUTHORED_BY<SEP>To Kill a Mockingbird"
+  },
+  "DEF Enterprises<SEP>subsidiaryOf": {
+    "chunk_ids": [
+      "chunk-9c07830327394a77dc9e8ac1a53acd63"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "DEF Enterprises<SEP>subsidiaryOf"
+  },
+  "sourceTo Kill a Mockingbird<SEP>typeAUTHORED_BY": {
+    "chunk_ids": [
+      "chunk-445fbff3137d26bce84d879934fb156e"
+    ],
+    "count": 1,
+    "create_time": 1770362070,
+    "update_time": 1770362070,
+    "_id": "sourceTo Kill a Mockingbird<SEP>typeAUTHORED_BY"
+  },
+  "source<SEP>type": {
+    "chunk_ids": [
+      "chunk-445fbff3137d26bce84d879934fb156e",
+      "chunk-ea6dd73e41a475c9933ac4783be5f57a",
+      "chunk-3e97945a272b68a7aa63d93a54b8c6ce"
+    ],
+    "count": 3,
+    "update_time": 1770363344,
+    "_id": "source<SEP>type"
+  },
+  "John Smith<SEP>MEETING": {
+    "chunk_ids": [
+      "chunk-3cdeba8bee9942d43ed93441dcd109d7"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "John Smith<SEP>MEETING"
+  },
+  "Apple Inc.<SEP>acquired_by": {
+    "chunk_ids": [
+      "chunk-f407f39fbfb8d8caa0eba09a242cee00"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "Apple Inc.<SEP>acquired_by"
+  },
+  "ABC Inc.<SEP>Headquarters": {
+    "chunk_ids": [
+      "chunk-f3099841c9e59bebef5ddbb5acdb1e41"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "ABC Inc.<SEP>Headquarters"
+  },
+  "founded_by<SEP>organization": {
+    "chunk_ids": [
+      "chunk-8c58f4785be38b80316bcdb547edbe48"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "founded_by<SEP>organization"
+  },
+  "subject<SEP>type": {
+    "chunk_ids": [
+      "chunk-3cdeba8bee9942d43ed93441dcd109d7",
+      "chunk-a0ebf31ca8cf0e8a5dbe6d09c3efa272",
+      "chunk-1b1bd4f0b7bd4102eccac051329604df",
+      "chunk-778a8623cc35798aa1ed41ffa090e9e5",
+      "chunk-875244dbf5b92a0cbabb5deff3c5629e"
+    ],
+    "count": 5,
+    "update_time": 1770363345,
+    "_id": "subject<SEP>type"
+  },
+  "John Smith<SEP>PARTNERSHIP_DISCUSSION": {
+    "chunk_ids": [
+      "chunk-3cdeba8bee9942d43ed93441dcd109d7"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "John Smith<SEP>PARTNERSHIP_DISCUSSION"
+  },
+  "2018-06-01<SEP>Parent-Child": {
+    "chunk_ids": [
+      "chunk-ea8dd630733dc61f911a635a9b8f0c7c"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "2018-06-01<SEP>Parent-Child"
+  },
+  "ABC Inc.<SEP>Founded In": {
+    "chunk_ids": [
+      "chunk-f3099841c9e59bebef5ddbb5acdb1e41"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "ABC Inc.<SEP>Founded In"
+  },
+  "Steve Jobs<SEP>co-founded with": {
+    "chunk_ids": [
+      "chunk-6ca358634d91f845f6dd19689edaf7b5"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "Steve Jobs<SEP>co-founded with"
+  },
+  "Apple Inc.<SEP>rivalry": {
+    "chunk_ids": [
+      "chunk-4d72291c86cdc15cc9b42dccc6b106a1"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "Apple Inc.<SEP>rivalry"
+  },
+  "start date<SEP>type": {
+    "chunk_ids": [
+      "chunk-ea8dd630733dc61f911a635a9b8f0c7c"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "start date<SEP>type"
+  },
+  "XYZ Corporation<SEP>is affiliated with": {
+    "chunk_ids": [
+      "chunk-033bfeab9bfaed05ef236ddef40c557b"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "XYZ Corporation<SEP>is affiliated with"
+  },
+  "John Smith<SEP>hired": {
+    "chunk_ids": [
+      "chunk-d47a7d4e49c6e48a2727071f21a879ba"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "John Smith<SEP>hired"
+  },
+  "consists of members<SEP>management team": {
+    "chunk_ids": [
+      "chunk-033bfeab9bfaed05ef236ddef40c557b"
+    ],
+    "count": 1,
+    "create_time": 1770362071,
+    "update_time": 1770362071,
+    "_id": "consists of members<SEP>management team"
+  },
+  "John Smith<SEP>employee": {
+    "chunk_ids": [
+      "chunk-551c4a3f4f76cd87581e1acc8d4a5d71",
+      "chunk-13d75b31628c95bce2d1de33c7d05683"
+    ],
+    "count": 2,
+    "update_time": 1770363346,
+    "_id": "John Smith<SEP>employee"
+  },
+  "predicate<SEP>subject": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35",
+      "chunk-0764df3b8f21fd5cbaab3f2e58ca5427"
+    ],
+    "count": 2,
+    "update_time": 1770362781,
+    "_id": "predicate<SEP>subject"
+  },
+  "entity1<SEP>has attribute": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35"
+    ],
+    "count": 1,
+    "create_time": 1770362458,
+    "update_time": 1770362458,
+    "_id": "entity1<SEP>has attribute"
+  },
+  "entity2<SEP>is related to": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35"
+    ],
+    "count": 1,
+    "create_time": 1770362458,
+    "update_time": 1770362458,
+    "_id": "entity2<SEP>is related to"
+  },
+  "entity4<SEP>has association": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35"
+    ],
+    "count": 1,
+    "create_time": 1770362458,
+    "update_time": 1770362458,
+    "_id": "entity4<SEP>has association"
+  },
+  "entity6<SEP>is a part of": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35"
+    ],
+    "count": 1,
+    "create_time": 1770362458,
+    "update_time": 1770362458,
+    "_id": "entity6<SEP>is a part of"
+  },
+  "Built by<SEP>Gustave Eiffel": {
+    "chunk_ids": [
+      "chunk-8dfe2a17435f059c92535241799795b4"
+    ],
+    "count": 1,
+    "create_time": 1770362458,
+    "update_time": 1770362458,
+    "_id": "Built by<SEP>Gustave Eiffel"
+  },
+  "entity9<SEP>has attribute": {
+    "chunk_ids": [
+      "chunk-6d5fedbfed862017a8523b8e6129ad35"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "entity9<SEP>has attribute"
+  },
+  "Meeting<SEP>Tim Cook": {
+    "chunk_ids": [
+      "chunk-ea6dd73e41a475c9933ac4783be5f57a"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "Meeting<SEP>Tim Cook"
+  },
+  "Eiffel Tower<SEP>Located at": {
+    "chunk_ids": [
+      "chunk-ea6dd73e41a475c9933ac4783be5f57a"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "Eiffel Tower<SEP>Located at"
+  },
+  "XYZ Corporation<SEP>headquarters": {
+    "chunk_ids": [
+      "chunk-a0ebf31ca8cf0e8a5dbe6d09c3efa272",
+      "chunk-bc543c8a30e99c725b127846caddef9c"
+    ],
+    "count": 2,
+    "update_time": 1770363106,
+    "_id": "XYZ Corporation<SEP>headquarters"
+  },
+  "incorrect.relation1<SEP>incorrect.type.1": {
+    "chunk_ids": [
+      "chunk-60071a35b7d93bd331a3e0d32f9f3fe4"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "incorrect.relation1<SEP>incorrect.type.1"
+  },
+  "correct.relation2<SEP>correct.type.2": {
+    "chunk_ids": [
+      "chunk-60071a35b7d93bd331a3e0d32f9f3fe4"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "correct.relation2<SEP>correct.type.2"
+  },
+  "John Smith<SEP>has been working at": {
+    "chunk_ids": [
+      "chunk-db735f250cad30d060b6ea644151e172"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "John Smith<SEP>has been working at"
+  },
+  "XYZ Corporation<SEP>subsidiary": {
+    "chunk_ids": [
+      "chunk-a0ebf31ca8cf0e8a5dbe6d09c3efa272"
+    ],
+    "count": 1,
+    "create_time": 1770362459,
+    "update_time": 1770362459,
+    "_id": "XYZ Corporation<SEP>subsidiary"
+  },
+  "organization<SEP>person": {
+    "chunk_ids": [
+      "chunk-74e3df5ce7be88ffd8bdf29e5b896da3"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "organization<SEP>person"
+  },
+  "Employer<SEP>Entity": {
+    "chunk_ids": [
+      "chunk-16f698d31ba9c05fea44e2d7f53e6d36"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "Employer<SEP>Entity"
+  },
+  "John Smith<SEP>specializes in": {
+    "chunk_ids": [
+      "chunk-db735f250cad30d060b6ea644151e172"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "John Smith<SEP>specializes in"
+  },
+  "John Doe<SEP>Lives in": {
+    "chunk_ids": [
+      "chunk-16f698d31ba9c05fea44e2d7f53e6d36"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "John Doe<SEP>Lives in"
+  },
+  "location<SEP>organization": {
+    "chunk_ids": [
+      "chunk-74e3df5ce7be88ffd8bdf29e5b896da3"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "location<SEP>organization"
+  },
+  "name<SEP>type": {
+    "chunk_ids": [
+      "chunk-553c0f788a5df6c23a481c0a3efdaabb"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "name<SEP>type"
+  },
+  "founder<SEP>founding": {
+    "chunk_ids": [
+      "chunk-553c0f788a5df6c23a481c0a3efdaabb"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "founder<SEP>founding"
+  },
+  "CEO<SEP>division leadership": {
+    "chunk_ids": [
+      "chunk-553c0f788a5df6c23a481c0a3efdaabb"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "CEO<SEP>division leadership"
+  },
+  "Employed<SEP>Person": {
+    "chunk_ids": [
+      "chunk-a214f4e9d9f3d3fed74243c9bdf50bf8"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "Employed<SEP>Person"
+  },
+  "John Doe<SEP>Works for": {
+    "chunk_ids": [
+      "chunk-16f698d31ba9c05fea44e2d7f53e6d36"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "John Doe<SEP>Works for"
+  },
+  "NASA's Johnson Space Center<SEP>located_at": {
+    "chunk_ids": [
+      "chunk-9e716e5bd5f06009e0468b77709b834d"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "NASA's Johnson Space Center<SEP>located_at"
+  },
+  "ABC Corporation<SEP>Employment Relation": {
+    "chunk_ids": [
+      "chunk-48fec31f78ae747d4c7614c6c15fff42"
+    ],
+    "count": 1,
+    "create_time": 1770362460,
+    "update_time": 1770362460,
+    "_id": "ABC Corporation<SEP>Employment Relation"
+  },
+  "Apple Inc.<SEP>Product Development": {
+    "chunk_ids": [
+      "chunk-48fec31f78ae747d4c7614c6c15fff42"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "Apple Inc.<SEP>Product Development"
+  },
+  "Organization<SEP>founded_by": {
+    "chunk_ids": [
+      "chunk-27bb80a716045bb643a01fd3aae1d84b"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "Organization<SEP>founded_by"
+  },
+  "Founded By<SEP>John Doe": {
+    "chunk_ids": [
+      "chunk-f712d3550c8612228f9fb4dc999ba9b7"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "Founded By<SEP>John Doe"
+  },
+  "action<SEP>type": {
+    "chunk_ids": [
+      "chunk-f188db350c6a6f2fdb22a9e9283e4dc3"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "action<SEP>type"
+  },
+  "PayPal<SEP>co-founded": {
+    "chunk_ids": [
+      "chunk-9b822de4a60aeb5f83933b9cd0a946c9"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "PayPal<SEP>co-founded"
+  },
+  "SpaceX<SEP>founded": {
+    "chunk_ids": [
+      "chunk-9b822de4a60aeb5f83933b9cd0a946c9"
+    ],
+    "count": 1,
+    "create_time": 1770362461,
+    "update_time": 1770362461,
+    "_id": "SpaceX<SEP>founded"
+  },
+  "Entity A<SEP>type": {
+    "chunk_ids": [
+      "chunk-b52b5200e77354191139029d689fb62d"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Entity A<SEP>type"
+  },
+  "Apple<SEP>is led by": {
+    "chunk_ids": [
+      "chunk-30c38b37fe24e15bfa43a713c9e38509"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Apple<SEP>is led by"
+  },
+  "Invests in<SEP>New Renewable Energy Project": {
+    "chunk_ids": [
+      "chunk-4c331074eb4b375b2a5a5a014411e2c8"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Invests in<SEP>New Renewable Energy Project"
+  },
+  "789<SEP>knows": {
+    "chunk_ids": [
+      "chunk-0f1544f96bf3906c3ffd91d3f551a278"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "789<SEP>knows"
+  },
+  "012<SEP>friends with": {
+    "chunk_ids": [
+      "chunk-0f1544f96bf3906c3ffd91d3f551a278"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "012<SEP>friends with"
+  },
+  "subordinate<SEP>type": {
+    "chunk_ids": [
+      "chunk-81005569d65546868c017fed474ad248"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "subordinate<SEP>type"
+  },
+  "Whole Foods Market<SEP>acquired": {
+    "chunk_ids": [
+      "chunk-e6824e03de6d996c4161ce46d959096b"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Whole Foods Market<SEP>acquired"
+  },
+  "Italy<SEP>lived_in": {
+    "chunk_ids": [
+      "chunk-362058f4451bd1ddd9fb9f152ff929ba"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Italy<SEP>lived_in"
+  },
+  "Mona Lisa<SEP>created": {
+    "chunk_ids": [
+      "chunk-362058f4451bd1ddd9fb9f152ff929ba"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Mona Lisa<SEP>created"
+  },
+  "ABC Corporation<SEP>employed_by": {
+    "chunk_ids": [
+      "chunk-bcbabc72a18ceaedb14452609db7d256"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "ABC Corporation<SEP>employed_by"
+  },
+  "Employee<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-b3274fdc75290435635fca543d6b0957"
+    ],
+    "count": 1,
+    "create_time": 1770362462,
+    "update_time": 1770362462,
+    "_id": "Employee<SEP>John Smith"
+  },
+  "colleague<SEP>type": {
+    "chunk_ids": [
+      "chunk-81005569d65546868c017fed474ad248"
+    ],
+    "count": 1,
+    "create_time": 1770362463,
+    "update_time": 1770362463,
+    "_id": "colleague<SEP>type"
+  },
+  "Company C<SEP>Owns": {
+    "chunk_ids": [
+      "chunk-626a48dbfe67b1f55d1d46c5b8d30097"
+    ],
+    "count": 1,
+    "create_time": 1770362463,
+    "update_time": 1770362463,
+    "_id": "Company C<SEP>Owns"
+  },
+  "John Smith<SEP>Project Collaborator": {
+    "chunk_ids": [
+      "chunk-b3274fdc75290435635fca543d6b0957"
+    ],
+    "count": 1,
+    "create_time": 1770362463,
+    "update_time": 1770362463,
+    "_id": "John Smith<SEP>Project Collaborator"
+  },
+  "Company B<SEP>Founded By": {
+    "chunk_ids": [
+      "chunk-626a48dbfe67b1f55d1d46c5b8d30097"
+    ],
+    "count": 1,
+    "create_time": 1770362463,
+    "update_time": 1770362463,
+    "_id": "Company B<SEP>Founded By"
+  },
+  "Company A<SEP>Headquartered In": {
+    "chunk_ids": [
+      "chunk-626a48dbfe67b1f55d1d46c5b8d30097"
+    ],
+    "count": 1,
+    "create_time": 1770362463,
+    "update_time": 1770362463,
+    "_id": "Company A<SEP>Headquartered In"
+  },
+  "id<SEP>type": {
+    "chunk_ids": [
+      "chunk-0f1544f96bf3906c3ffd91d3f551a278",
+      "chunk-64ece25ffa878c37debd5633b99a6ed1"
+    ],
+    "count": 2,
+    "update_time": 1770362784,
+    "_id": "id<SEP>type"
+  },
+  "CEO of<SEP>Sundar Pichai": {
+    "chunk_ids": [
+      "chunk-0764df3b8f21fd5cbaab3f2e58ca5427"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "CEO of<SEP>Sundar Pichai"
+  },
+  "Google<SEP>plans to expand into": {
+    "chunk_ids": [
+      "chunk-0764df3b8f21fd5cbaab3f2e58ca5427"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "Google<SEP>plans to expand into"
+  },
+  "Dr. Maria Rodriguez<SEP>works on AI projects with": {
+    "chunk_ids": [
+      "chunk-0b7877eecb47b8c4e31e1be8eeeb5ea5"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "Dr. Maria Rodriguez<SEP>works on AI projects with"
+  },
+  "John<SEP>friend": {
+    "chunk_ids": [
+      "chunk-f7652766852520e04d0eada97da149d4"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "John<SEP>friend"
+  },
+  "John Smith<SEP>employed by": {
+    "chunk_ids": [
+      "chunk-1fac00592ffbcdf0140c9ae0bd1dbfdc"
+    ],
+    "count": 1,
+    "update_time": 1770363320,
+    "_id": "John Smith<SEP>employed by"
+  },
+  "Dr. Maria Rodriguez<SEP>collaborates with": {
+    "chunk_ids": [
+      "chunk-0b7877eecb47b8c4e31e1be8eeeb5ea5"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "Dr. Maria Rodriguez<SEP>collaborates with"
+  },
+  "Steve Jobs<SEP>founded_by": {
+    "chunk_ids": [
+      "chunk-3039a688aa2e6b47b0ab1e9e0729fc47"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "Steve Jobs<SEP>founded_by"
+  },
+  "COO<SEP>Expanding Renewable Energy Initiatives": {
+    "chunk_ids": [
+      "chunk-d15239f3fbd1844d5a913cf9c29c6a62"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "COO<SEP>Expanding Renewable Energy Initiatives"
+  },
+  "Employee<SEP>John Doe": {
+    "chunk_ids": [
+      "chunk-87aef9adbbf32f7b8ba9d9db34d927a6"
+    ],
+    "count": 1,
+    "update_time": 1770362982,
+    "_id": "Employee<SEP>John Doe"
+  },
+  "Apple Inc.<SEP>founded by": {
+    "chunk_ids": [
+      "chunk-8643f291873d6f95495391decd99ef7f"
+    ],
+    "count": 1,
+    "update_time": 1770362981,
+    "_id": "Apple Inc.<SEP>founded by"
+  },
+  "John Smith<SEP>colleagues with": {
+    "chunk_ids": [
+      "chunk-1fac00592ffbcdf0140c9ae0bd1dbfdc"
+    ],
+    "count": 1,
+    "create_time": 1770362781,
+    "update_time": 1770362781,
+    "_id": "John Smith<SEP>colleagues with"
+  },
+  "Headquarters Located In<SEP>New York": {
+    "chunk_ids": [
+      "chunk-5eb662dfdbe902c6b759c1dcd149c71a"
+    ],
+    "count": 1,
+    "update_time": 1770362971,
+    "_id": "Headquarters Located In<SEP>New York"
+  },
+  "Industry<SEP>Technology": {
+    "chunk_ids": [
+      "chunk-5eb662dfdbe902c6b759c1dcd149c71a"
+    ],
+    "count": 1,
+    "update_time": 1770362980,
+    "_id": "Industry<SEP>Technology"
+  },
+  "Founded By<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-5eb662dfdbe902c6b759c1dcd149c71a"
+    ],
+    "count": 1,
+    "update_time": 1770362982,
+    "_id": "Founded By<SEP>John Smith"
+  },
+  "University of Oxford<SEP>located in": {
+    "chunk_ids": [
+      "chunk-f4635ce50d45ae30de5b4112d1277975"
+    ],
+    "count": 1,
+    "update_time": 1770362971,
+    "_id": "University of Oxford<SEP>located in"
+  },
+  "Vice-Chancellor Professor Louise Richardson<SEP>led by": {
+    "chunk_ids": [
+      "chunk-f4635ce50d45ae30de5b4112d1277975"
+    ],
+    "count": 1,
+    "update_time": 1770362971,
+    "_id": "Vice-Chancellor Professor Louise Richardson<SEP>led by"
+  },
+  "David Cameron<SEP>attended": {
+    "chunk_ids": [
+      "chunk-f4635ce50d45ae30de5b4112d1277975"
+    ],
+    "count": 1,
+    "update_time": 1770362971,
+    "_id": "David Cameron<SEP>attended"
+  },
+  "relation_type<SEP>subj_text": {
+    "chunk_ids": [
+      "chunk-ba12d9ba4613c0906f5bddff73f23dd9"
+    ],
+    "count": 1,
+    "create_time": 1770362783,
+    "update_time": 1770362783,
+    "_id": "relation_type<SEP>subj_text"
+  },
+  "WORK_WITH<SEP>XYZ Inc.": {
+    "chunk_ids": [
+      "chunk-ba12d9ba4613c0906f5bddff73f23dd9"
+    ],
+    "count": 1,
+    "create_time": 1770362783,
+    "update_time": 1770362783,
+    "_id": "WORK_WITH<SEP>XYZ Inc."
+  },
+  "Collaboration<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-1e03533555109549978c4b517473a757"
+    ],
+    "count": 1,
+    "update_time": 1770362971,
+    "_id": "Collaboration<SEP>John Smith"
+  },
+  "ABC Corporation<SEP>based_in": {
+    "chunk_ids": [
+      "chunk-1e3ac60d1b06ce49b0e74445bd5c35d7"
+    ],
+    "count": 1,
+    "create_time": 1770362783,
+    "update_time": 1770362783,
+    "_id": "ABC Corporation<SEP>based_in"
+  },
+  "Partnership<SEP>XYZ Corporation": {
+    "chunk_ids": [
+      "chunk-778a8623cc35798aa1ed41ffa090e9e5"
+    ],
+    "count": 1,
+    "create_time": 1770362783,
+    "update_time": 1770362783,
+    "_id": "Partnership<SEP>XYZ Corporation"
+  },
+  "Has Subsidiaries<SEP>XYZ Inc.": {
+    "chunk_ids": [
+      "chunk-659e8a1d0c3ea0d7149e2c946a891e09"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "Has Subsidiaries<SEP>XYZ Inc."
+  },
+  "John Smith<SEP>works_for": {
+    "chunk_ids": [
+      "chunk-1e3ac60d1b06ce49b0e74445bd5c35d7"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "John Smith<SEP>works_for"
+  },
+  "ABC Ltd.<SEP>has_subsidary": {
+    "chunk_ids": [
+      "chunk-08a903bcc29ba54a545f0fbfc922a7b9"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "ABC Ltd.<SEP>has_subsidary"
+  },
+  "Employment<SEP>XYZ Corporation": {
+    "chunk_ids": [
+      "chunk-778a8623cc35798aa1ed41ffa090e9e5"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "Employment<SEP>XYZ Corporation"
+  },
+  "description of relation<SEP>type of relation": {
+    "chunk_ids": [
+      "chunk-a574c5769e1eacad6df009d4dcc7dfc2"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "description of relation<SEP>type of relation"
+  },
+  "Relation 1<SEP>Type of Relation 1": {
+    "chunk_ids": [
+      "chunk-a574c5769e1eacad6df009d4dcc7dfc2"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "Relation 1<SEP>Type of Relation 1"
+  },
+  "correct relation description<SEP>correct relation type": {
+    "chunk_ids": [
+      "chunk-a574c5769e1eacad6df009d4dcc7dfc2"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "correct relation description<SEP>correct relation type"
+  },
+  "John Smith<SEP>collaborates_with": {
+    "chunk_ids": [
+      "chunk-1e3ac60d1b06ce49b0e74445bd5c35d7"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "John Smith<SEP>collaborates_with"
+  },
+  "Parent Of<SEP>Person": {
+    "chunk_ids": [
+      "chunk-ed80c461fcd7ae24e2d82990c8272a1b"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "Parent Of<SEP>Person"
+  },
+  "` Bill Gates `<SEP>` Microsoft `": {
+    "chunk_ids": [
+      "chunk-7ac85679d77a60f266bf38a2e2dc7a33"
+    ],
+    "count": 1,
+    "create_time": 1770362784,
+    "update_time": 1770362784,
+    "_id": "` Bill Gates `<SEP>` Microsoft `"
+  },
+  "Entity 1<SEP>Relation Type": {
+    "chunk_ids": [
+      "chunk-f06489ad05059ba9b1a361bb9ddcf635"
+    ],
+    "count": 1,
+    "update_time": 1770362970,
+    "_id": "Entity 1<SEP>Relation Type"
+  },
+  "relation_type<SEP>subject_entity": {
+    "chunk_ids": [
+      "chunk-42a3e63b49bd29b4af01b8a4548a8d8c"
+    ],
+    "count": 1,
+    "update_time": 1770363320,
+    "_id": "relation_type<SEP>subject_entity"
+  },
+  "Founded by<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-659e8a1d0c3ea0d7149e2c946a891e09"
+    ],
+    "count": 1,
+    "create_time": 1770362785,
+    "update_time": 1770362785,
+    "_id": "Founded by<SEP>John Smith"
+  },
+  "Maria Rodriguez<SEP>WORKS_FOR": {
+    "chunk_ids": [
+      "chunk-42a3e63b49bd29b4af01b8a4548a8d8c"
+    ],
+    "count": 1,
+    "update_time": 1770363320,
+    "_id": "Maria Rodriguez<SEP>WORKS_FOR"
+  },
+  "ABC Corporation<SEP>HEAD_OF": {
+    "chunk_ids": [
+      "chunk-42a3e63b49bd29b4af01b8a4548a8d8c"
+    ],
+    "count": 1,
+    "update_time": 1770363320,
+    "_id": "ABC Corporation<SEP>HEAD_OF"
+  },
+  "city<SEP>founded_by": {
+    "chunk_ids": [
+      "chunk-469ebc1e7fe81f6c030582148393d58d"
+    ],
+    "count": 1,
+    "create_time": 1770362982,
+    "update_time": 1770362982,
+    "_id": "city<SEP>founded_by"
+  },
+  "capital_of<SEP>country": {
+    "chunk_ids": [
+      "chunk-469ebc1e7fe81f6c030582148393d58d"
+    ],
+    "count": 1,
+    "create_time": 1770362987,
+    "update_time": 1770362987,
+    "_id": "capital_of<SEP>country"
+  },
+  "John Smith<SEP>worked for": {
+    "chunk_ids": [
+      "chunk-25521141823b7becef820b71d7dbda0c"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "John Smith<SEP>worked for"
+  },
+  "Emily Chen<SEP>led by": {
+    "chunk_ids": [
+      "chunk-25521141823b7becef820b71d7dbda0c"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "Emily Chen<SEP>led by"
+  },
+  "label<SEP>type": {
+    "chunk_ids": [
+      "chunk-e5c4efd6d2d98d5f75bdad4ee153609d"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "label<SEP>type"
+  },
+  "Relation 1<SEP>Type 1": {
+    "chunk_ids": [
+      "chunk-e5c4efd6d2d98d5f75bdad4ee153609d"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "Relation 1<SEP>Type 1"
+  },
+  "Relation 2<SEP>Type 2": {
+    "chunk_ids": [
+      "chunk-e5c4efd6d2d98d5f75bdad4ee153609d"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "Relation 2<SEP>Type 2"
+  },
+  "John Smith<SEP>collaborated with": {
+    "chunk_ids": [
+      "chunk-25521141823b7becef820b71d7dbda0c"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "John Smith<SEP>collaborated with"
+  },
+  "XYZ Inc.<SEP>partnership": {
+    "chunk_ids": [
+      "chunk-4245a3f203f1689ccc49f304e32bace5"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "XYZ Inc.<SEP>partnership"
+  },
+  "CEOs<SEP>Entity 2": {
+    "chunk_ids": [
+      "chunk-2658166fe89ce4edb6d09b3e73ec9d56"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "CEOs<SEP>Entity 2"
+  },
+  "(entity 1)<SEP>(relation type)": {
+    "chunk_ids": [
+      "chunk-fa6c175f37ce7089fa657f33595c666c"
+    ],
+    "count": 1,
+    "create_time": 1770363106,
+    "update_time": 1770363106,
+    "_id": "(entity 1)<SEP>(relation type)"
+  },
+  "John Smith<SEP>met with": {
+    "chunk_ids": [
+      "chunk-25521141823b7becef820b71d7dbda0c"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "John Smith<SEP>met with"
+  },
+  "entity1<SEP>has-part": {
+    "chunk_ids": [
+      "chunk-3a496eb9c6c8d4c66c22b3ac65fe5b31"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "entity1<SEP>has-part"
+  },
+  "Alice<SEP>visited_by": {
+    "chunk_ids": [
+      "chunk-ff197400ac8e94cfb08419bd8a6c660a"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "Alice<SEP>visited_by"
+  },
+  "John Doe<SEP>employed-by": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "John Doe<SEP>employed-by"
+  },
+  "Emma Smith<SEP>colleague-of": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "Emma Smith<SEP>colleague-of"
+  },
+  "John Smith<SEP>authorship": {
+    "chunk_ids": [
+      "chunk-1e7bc5a59a0a74b310624922fb53f5b3"
+    ],
+    "count": 1,
+    "create_time": 1770363107,
+    "update_time": 1770363107,
+    "_id": "John Smith<SEP>authorship"
+  },
+  "ABC Corp.<SEP>founded-by": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "ABC Corp.<SEP>founded-by"
+  },
+  "Emma Smith<SEP>works-at": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "Emma Smith<SEP>works-at"
+  },
+  "ABC Inc.<SEP>managed-by": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "ABC Inc.<SEP>managed-by"
+  },
+  "John Doe<SEP>resides-in": {
+    "chunk_ids": [
+      "chunk-ae29b94ecffe086781947e2fdbfad895"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "John Doe<SEP>resides-in"
+  },
+  "John Smith<SEP>editorial": {
+    "chunk_ids": [
+      "chunk-1e7bc5a59a0a74b310624922fb53f5b3"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "John Smith<SEP>editorial"
+  },
+  "Penguin Books<SEP>publication": {
+    "chunk_ids": [
+      "chunk-3b08c5812a78d79a773ecd56c3c1e084"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "Penguin Books<SEP>publication"
+  },
+  "Claude Monet<SEP>hosted": {
+    "chunk_ids": [
+      "chunk-36d7831b967b917f74ffc6f58aa73452"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "Claude Monet<SEP>hosted"
+  },
+  "description<SEP>type": {
+    "chunk_ids": [
+      "chunk-9e4cd339e78d8d40470267d6f2774f66"
+    ],
+    "count": 1,
+    "create_time": 1770363108,
+    "update_time": 1770363108,
+    "_id": "description<SEP>type"
+  },
+  "This is a relationship between two entities<SEP>Type A": {
+    "chunk_ids": [
+      "chunk-9e4cd339e78d8d40470267d6f2774f66"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "This is a relationship between two entities<SEP>Type A"
+  },
+  "John Smith<SEP>collaboration": {
+    "chunk_ids": [
+      "chunk-3b08c5812a78d79a773ecd56c3c1e084"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "John Smith<SEP>collaboration"
+  },
+  "This is another relationship between two entities<SEP>Type B": {
+    "chunk_ids": [
+      "chunk-9e4cd339e78d8d40470267d6f2774f66"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "This is another relationship between two entities<SEP>Type B"
+  },
+  "Jane Doe<SEP>reportsTo": {
+    "chunk_ids": [
+      "chunk-9ce07a51ef582a63eb6d5d10aec550fe"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "Jane Doe<SEP>reportsTo"
+  },
+  "by<SEP>visited": {
+    "chunk_ids": [
+      "chunk-a52b953a69d1e5300dc42fea549624cc"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "by<SEP>visited"
+  },
+  "collaboration<SEP>worked with": {
+    "chunk_ids": [
+      "chunk-2b6ff8589dcaca5214d3db25104a4fc2"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "collaboration<SEP>worked with"
+  },
+  "John Smith<SEP>Works At": {
+    "chunk_ids": [
+      "chunk-b35bf5371164b92c6f94b6b1edaf6f2a"
+    ],
+    "count": 1,
+    "create_time": 1770363109,
+    "update_time": 1770363109,
+    "_id": "John Smith<SEP>Works At"
+  },
+  "John Smith<SEP>employeeOf": {
+    "chunk_ids": [
+      "chunk-9ce07a51ef582a63eb6d5d10aec550fe"
+    ],
+    "count": 1,
+    "create_time": 1770363110,
+    "update_time": 1770363110,
+    "_id": "John Smith<SEP>employeeOf"
+  },
+  "Sarah Lee<SEP>Supervisor": {
+    "chunk_ids": [
+      "chunk-99192bcfcb30814c4ed015c9e5b18ba8"
+    ],
+    "count": 1,
+    "create_time": 1770363320,
+    "update_time": 1770363320,
+    "_id": "Sarah Lee<SEP>Supervisor"
+  },
+  "EVENT,entity<SEP>received international attention": {
+    "chunk_ids": [
+      "chunk-7838234dc3bb876ced6fabea41222695"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "EVENT,entity<SEP>received international attention"
+  },
+  "ABC Inc.<SEP>acquired by": {
+    "chunk_ids": [
+      "chunk-6f025d035915467517ca424f6e1fea96"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "ABC Inc.<SEP>acquired by"
+  },
+  "John Smith<SEP>is CEO of": {
+    "chunk_ids": [
+      "chunk-00f2377f0cd08c77c000df20f4ac40c1"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "John Smith<SEP>is CEO of"
+  },
+  "XYZ Corporation<SEP>has headquarters in": {
+    "chunk_ids": [
+      "chunk-00f2377f0cd08c77c000df20f4ac40c1"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "XYZ Corporation<SEP>has headquarters in"
+  },
+  "Affiliated_with<SEP>Entity": {
+    "chunk_ids": [
+      "chunk-880657fcead983c1ada31e3024872a79"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "Affiliated_with<SEP>Entity"
+  },
+  "Japan<SEP>capital of": {
+    "chunk_ids": [
+      "chunk-1d268b118d865a964f0911adbcd24b46"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "Japan<SEP>capital of"
+  },
+  "Tokyo<SEP>located in": {
+    "chunk_ids": [
+      "chunk-1d268b118d865a964f0911adbcd24b46"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "Tokyo<SEP>located in"
+  },
+  "Yokohama<SEP>neighbor to": {
+    "chunk_ids": [
+      "chunk-1d268b118d865a964f0911adbcd24b46"
+    ],
+    "count": 1,
+    "create_time": 1770363343,
+    "update_time": 1770363343,
+    "_id": "Yokohama<SEP>neighbor to"
+  },
+  "Entity A<SEP>Is-A": {
+    "chunk_ids": [
+      "chunk-3e97945a272b68a7aa63d93a54b8c6ce"
+    ],
+    "count": 1,
+    "create_time": 1770363344,
+    "update_time": 1770363344,
+    "_id": "Entity A<SEP>Is-A"
+  },
+  "John Doe Foundation<SEP>donated to": {
+    "chunk_ids": [
+      "chunk-80e647f4fae9bf23b96a7c260839df22"
+    ],
+    "count": 1,
+    "create_time": 1770363344,
+    "update_time": 1770363344,
+    "_id": "John Doe Foundation<SEP>donated to"
+  },
+  "source=John Smith<SEP>target=ABC Inc.": {
+    "chunk_ids": [
+      "chunk-788901d0b4d29c039e6a86eed1ac4b10"
+    ],
+    "count": 1,
+    "create_time": 1770363344,
+    "update_time": 1770363344,
+    "_id": "source=John Smith<SEP>target=ABC Inc."
+  },
+  "Kawasaki<SEP>neighbor to": {
+    "chunk_ids": [
+      "chunk-1d268b118d865a964f0911adbcd24b46"
+    ],
+    "count": 1,
+    "create_time": 1770363344,
+    "update_time": 1770363344,
+    "_id": "Kawasaki<SEP>neighbor to"
+  },
+  "John Doe<SEP>lives_in": {
+    "chunk_ids": [
+      "chunk-875244dbf5b92a0cbabb5deff3c5629e"
+    ],
+    "count": 1,
+    "create_time": 1770363344,
+    "update_time": 1770363344,
+    "_id": "John Doe<SEP>lives_in"
+  },
+  "description<SEP>label": {
+    "chunk_ids": [
+      "chunk-e823f4271cc674d258a850b82bd8b70b"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "description<SEP>label"
+  },
+  "Relation1<SEP>This is Relation 1": {
+    "chunk_ids": [
+      "chunk-e823f4271cc674d258a850b82bd8b70b"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "Relation1<SEP>This is Relation 1"
+  },
+  "source<SEP>target": {
+    "chunk_ids": [
+      "chunk-788901d0b4d29c039e6a86eed1ac4b10"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "source<SEP>target"
+  },
+  "source=Emily Chen<SEP>target=ABC Inc.": {
+    "chunk_ids": [
+      "chunk-788901d0b4d29c039e6a86eed1ac4b10"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "source=Emily Chen<SEP>target=ABC Inc."
+  },
+  "CEO<SEP>Jane Doe": {
+    "chunk_ids": [
+      "chunk-67da272e0cf77b7a72954b23074375bd"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "CEO<SEP>Jane Doe"
+  },
+  "Alexander Petrov<SEP>family_relation": {
+    "chunk_ids": [
+      "chunk-ceb6afb7b86fd8dee5d1ffc49066a3be"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "Alexander Petrov<SEP>family_relation"
+  },
+  "John Smith<SEP>friendship": {
+    "chunk_ids": [
+      "chunk-ceb6afb7b86fd8dee5d1ffc49066a3be"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "John Smith<SEP>friendship"
+  },
+  "entity1_id<SEP>type": {
+    "chunk_ids": [
+      "chunk-9d8286e6a8f25ded00034a7a287f09cf"
+    ],
+    "count": 1,
+    "create_time": 1770363345,
+    "update_time": 1770363345,
+    "_id": "entity1_id<SEP>type"
+  },
+  "entity_name1<SEP>relationship_name1": {
+    "chunk_ids": [
+      "chunk-001b3ca70f42e9cc2ce8671a72009988"
+    ],
+    "count": 1,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "entity_name1<SEP>relationship_name1"
+  },
+  "entity_name3<SEP>relationship_name2": {
+    "chunk_ids": [
+      "chunk-001b3ca70f42e9cc2ce8671a72009988"
+    ],
+    "count": 1,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "entity_name3<SEP>relationship_name2"
+  },
+  "John Smith<SEP>colleague": {
+    "chunk_ids": [
+      "chunk-13d75b31628c95bce2d1de33c7d05683"
+    ],
+    "count": 1,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "John Smith<SEP>colleague"
+  },
+  "entity2_id<SEP>type": {
+    "chunk_ids": [
+      "chunk-9d8286e6a8f25ded00034a7a287f09cf"
+    ],
+    "count": 1,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "entity2_id<SEP>type"
+  },
+  "entity4_name<SEP>type": {
+    "chunk_ids": [
+      "chunk-9d8286e6a8f25ded00034a7a287f09cf"
+    ],
+    "count": 1,
+    "create_time": 1770363346,
+    "update_time": 1770363346,
+    "_id": "entity4_name<SEP>type"
+  }
+}

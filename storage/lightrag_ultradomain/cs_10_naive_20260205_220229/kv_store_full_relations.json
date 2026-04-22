@@ -1,0 +1,102 @@
+{
+  "doc-346e702970e20030a533e6b90d4d7de1": {
+    "relation_pairs": [
+      [
+        "John is a member of",
+        "United Nations"
+      ],
+      [
+        "The Louvre Museum",
+        "houses"
+      ],
+      [
+        "Jane works for",
+        "United Nations"
+      ],
+      [
+        "entity_name3",
+        "relation_name2"
+      ],
+      [
+        "ABC Corporation",
+        "owned_by"
+      ],
+      [
+        "Galactic Innovations",
+        "headquartered_in"
+      ],
+      [
+        "Company X",
+        "Company X-Employees"
+      ],
+      [
+        "entity_name1",
+        "relation_name1"
+      ],
+      [
+        "ABC Corporation",
+        "headed_by"
+      ],
+      [
+        "John Doe",
+        "XYZ Corporation"
+      ],
+      [
+        "Google Founded By",
+        "Larry Page and Sergey Brin"
+      ],
+      [
+        "`**Entity Involved (1)**`",
+        "`**Type of Relationship**`"
+      ],
+      [
+        "Company A",
+        "Hires"
+      ],
+      [
+        "The Louvre Museum",
+        "located_in"
+      ],
+      [
+        "organization",
+        "partOf"
+      ],
+      [
+        "entity1",
+        "relation_type"
+      ],
+      [
+        "organization",
+        "partneredWith"
+      ],
+      [
+        "Employee-Works-for",
+        "Entity1"
+      ],
+      [
+        "field1",
+        "field2"
+      ],
+      [
+        "attracts",
+        "millions of visitors"
+      ],
+      [
+        "entity1",
+        "entity2"
+      ],
+      [
+        "John",
+        "works_at"
+      ],
+      [
+        "John Doe Lives In",
+        "New York City"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "doc-346e702970e20030a533e6b90d4d7de1"
+  }
+}

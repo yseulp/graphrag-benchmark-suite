@@ -1,0 +1,29 @@
+{
+  "subject<SEP>type": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "subject<SEP>type"
+  },
+  "CEO<SEP>implemented_by": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "CEO<SEP>implemented_by"
+  },
+  "affected<SEP>employees": {
+    "chunk_ids": [
+      "chunk-c5ad491f12b2fbeaf2cbcb55c259a189"
+    ],
+    "count": 1,
+    "create_time": 1765566044,
+    "update_time": 1765566044,
+    "_id": "affected<SEP>employees"
+  }
+}

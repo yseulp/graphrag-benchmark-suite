@@ -1,0 +1,317 @@
+{
+  "is headquartered in<SEP>location": {
+    "chunk_ids": [
+      "chunk-258920087f644cc25885ea26d1b42c57"
+    ],
+    "count": 1,
+    "create_time": 1770326271,
+    "update_time": 1770326271,
+    "_id": "is headquartered in<SEP>location"
+  },
+  "is CEO of<SEP>organization": {
+    "chunk_ids": [
+      "chunk-258920087f644cc25885ea26d1b42c57"
+    ],
+    "count": 1,
+    "create_time": 1770326271,
+    "update_time": 1770326271,
+    "_id": "is CEO of<SEP>organization"
+  },
+  "entity1<SEP>name": {
+    "chunk_ids": [
+      "chunk-f553039478a9062cbc987534ad4b8786"
+    ],
+    "count": 1,
+    "create_time": 1770326271,
+    "update_time": 1770326271,
+    "_id": "entity1<SEP>name"
+  },
+  "CEO<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-f553039478a9062cbc987534ad4b8786"
+    ],
+    "count": 1,
+    "create_time": 1770326271,
+    "update_time": 1770326271,
+    "_id": "CEO<SEP>John Smith"
+  },
+  "Paris<SEP>located_in": {
+    "chunk_ids": [
+      "chunk-a5786cfb81de712896ac4a656a96c936"
+    ],
+    "count": 1,
+    "create_time": 1770326271,
+    "update_time": 1770326271,
+    "_id": "Paris<SEP>located_in"
+  },
+  "entity1<SEP>type": {
+    "chunk_ids": [
+      "chunk-d6d9a26a92e315e16b4faa765adb00c5"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "entity1<SEP>type"
+  },
+  "object<SEP>subject": {
+    "chunk_ids": [
+      "chunk-678cfa4b8a685b0b12a836d4704573f7"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "object<SEP>subject"
+  },
+  "Entity 1<SEP>Entity 2": {
+    "chunk_ids": [
+      "chunk-678cfa4b8a685b0b12a836d4704573f7"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "Entity 1<SEP>Entity 2"
+  },
+  "has partnerships with<SEP>organization": {
+    "chunk_ids": [
+      "chunk-258920087f644cc25885ea26d1b42c57"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "has partnerships with<SEP>organization"
+  },
+  "Employee<SEP>works at": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "Employee<SEP>works at"
+  },
+  "Graduated-From<SEP>John Smith": {
+    "chunk_ids": [
+      "chunk-d6d9a26a92e315e16b4faa765adb00c5"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "Graduated-From<SEP>John Smith"
+  },
+  "Product<SEP>developed by": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "Product<SEP>developed by"
+  },
+  "Investor<SEP>invests in": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770326272,
+    "update_time": 1770326272,
+    "_id": "Investor<SEP>invests in"
+  },
+  "Person: Jane Smith<SEP>employee_of": {
+    "chunk_ids": [
+      "chunk-0461ef768fdce3a769ac5e017ff55c16"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "Person: Jane Smith<SEP>employee_of"
+  },
+  "Organization: ABC Corporation<SEP>headquarters": {
+    "chunk_ids": [
+      "chunk-0461ef768fdce3a769ac5e017ff55c16"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "Organization: ABC Corporation<SEP>headquarters"
+  },
+  "subject<SEP>type": {
+    "chunk_ids": [
+      "chunk-0461ef768fdce3a769ac5e017ff55c16"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "subject<SEP>type"
+  },
+  "John Smith<SEP>lives in": {
+    "chunk_ids": [
+      "chunk-44cbf2eb345f87e0de5e1796d976931f"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "John Smith<SEP>lives in"
+  },
+  "Microsoft Corporation<SEP>acquired_by": {
+    "chunk_ids": [
+      "chunk-dbb4530d82451e3441827ce5283014e5"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "Microsoft Corporation<SEP>acquired_by"
+  },
+  "has_worked_with<SEP>related_to": {
+    "chunk_ids": [
+      "chunk-085dcc09864d6f2a495922872689622a"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "has_worked_with<SEP>related_to"
+  },
+  "Starry Night<SEP>painting": {
+    "chunk_ids": [
+      "chunk-085dcc09864d6f2a495922872689622a"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "Starry Night<SEP>painting"
+  },
+  "John Smith<SEP>works at": {
+    "chunk_ids": [
+      "chunk-44cbf2eb345f87e0de5e1796d976931f"
+    ],
+    "count": 1,
+    "create_time": 1770326273,
+    "update_time": 1770326273,
+    "_id": "John Smith<SEP>works at"
+  },
+  "John Doe<SEP>employs": {
+    "chunk_ids": [
+      "chunk-b5a1f3b3cdf99d9b852709b389cb3e49"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "John Doe<SEP>employs"
+  },
+  "New York City Hall<SEP>is-located-in": {
+    "chunk_ids": [
+      "chunk-b5a1f3b3cdf99d9b852709b389cb3e49"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "New York City Hall<SEP>is-located-in"
+  },
+  "Sunflowers<SEP>painting": {
+    "chunk_ids": [
+      "chunk-085dcc09864d6f2a495922872689622a"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Sunflowers<SEP>painting"
+  },
+  "entity1<SEP>entity2": {
+    "chunk_ids": [
+      "chunk-ea54de8993979a78f56d2b1c760eb4d6"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "entity1<SEP>entity2"
+  },
+  "Company X<SEP>Product A": {
+    "chunk_ids": [
+      "chunk-ea54de8993979a78f56d2b1c760eb4d6"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Company X<SEP>Product A"
+  },
+  "Wheat Field<SEP>painting": {
+    "chunk_ids": [
+      "chunk-085dcc09864d6f2a495922872689622a"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Wheat Field<SEP>painting"
+  },
+  "The Louvre Museum<SEP>houses an impressive collection of artwork": {
+    "chunk_ids": [
+      "chunk-cc0303b62be8d6475395973e6c749681"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "The Louvre Museum<SEP>houses an impressive collection of artwork"
+  },
+  "Entity 1<SEP>Relation Type": {
+    "chunk_ids": [
+      "chunk-650eaec6ddcd392d5fffbdde2f31f777"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Entity 1<SEP>Relation Type"
+  },
+  "John Doe<SEP>has-aquaintance-with": {
+    "chunk_ids": [
+      "chunk-b5a1f3b3cdf99d9b852709b389cb3e49"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "John Doe<SEP>has-aquaintance-with"
+  },
+  "Microsoft<SEP>collaboration": {
+    "chunk_ids": [
+      "chunk-2eac38a0dfbc5c3ab3b08f1d84f7752b"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Microsoft<SEP>collaboration"
+  },
+  "Headquarters<SEP>Location": {
+    "chunk_ids": [
+      "chunk-cd36d7aa03a123951e4fc5454e6c526a"
+    ],
+    "count": 1,
+    "create_time": 1770326274,
+    "update_time": 1770326274,
+    "_id": "Headquarters<SEP>Location"
+  },
+  "Entity 3<SEP>Relation Type": {
+    "chunk_ids": [
+      "chunk-650eaec6ddcd392d5fffbdde2f31f777"
+    ],
+    "count": 1,
+    "create_time": 1770326275,
+    "update_time": 1770326275,
+    "_id": "Entity 3<SEP>Relation Type"
+  },
+  "John<SEP>collaboration": {
+    "chunk_ids": [
+      "chunk-a6cc899a18c36784c3a004b6e2134160"
+    ],
+    "count": 1,
+    "create_time": 1770326275,
+    "update_time": 1770326275,
+    "_id": "John<SEP>collaboration"
+  },
+  "John<SEP>reviewing": {
+    "chunk_ids": [
+      "chunk-a6cc899a18c36784c3a004b6e2134160"
+    ],
+    "count": 1,
+    "create_time": 1770326275,
+    "update_time": 1770326275,
+    "_id": "John<SEP>reviewing"
+  }
+}

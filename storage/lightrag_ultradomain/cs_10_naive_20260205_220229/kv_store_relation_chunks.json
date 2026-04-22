@@ -1,0 +1,209 @@
+{
+  "entity1<SEP>relation_type": {
+    "chunk_ids": [
+      "chunk-4d722e32eea1d984079ec837698a9331"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "entity1<SEP>relation_type"
+  },
+  "ABC Corporation<SEP>owned_by": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "ABC Corporation<SEP>owned_by"
+  },
+  "entity_name1<SEP>relation_name1": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "entity_name1<SEP>relation_name1"
+  },
+  "entity_name3<SEP>relation_name2": {
+    "chunk_ids": [
+      "chunk-c166588570b3208746fbee38b631ae80"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "entity_name3<SEP>relation_name2"
+  },
+  "The Louvre Museum<SEP>located_in": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "The Louvre Museum<SEP>located_in"
+  },
+  "attracts<SEP>millions of visitors": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "attracts<SEP>millions of visitors"
+  },
+  "ABC Corporation<SEP>headed_by": {
+    "chunk_ids": [
+      "chunk-1370e6212522c71e4a8a47ea7ae13efd"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "ABC Corporation<SEP>headed_by"
+  },
+  "`**Entity Involved (1)**`<SEP>`**Type of Relationship**`": {
+    "chunk_ids": [
+      "chunk-fdc473291b0a2811f146885b0df8ee04"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "`**Entity Involved (1)**`<SEP>`**Type of Relationship**`"
+  },
+  "John<SEP>works_at": {
+    "chunk_ids": [
+      "chunk-a3d84cbc4436959f3e2bb375371dc52e"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "John<SEP>works_at"
+  },
+  "field1<SEP>field2": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "field1<SEP>field2"
+  },
+  "John is a member of<SEP>United Nations": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325641,
+    "update_time": 1770325641,
+    "_id": "John is a member of<SEP>United Nations"
+  },
+  "The Louvre Museum<SEP>houses": {
+    "chunk_ids": [
+      "chunk-aa4c8e95328d66565a390140004010b8"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "The Louvre Museum<SEP>houses"
+  },
+  "John Doe Lives In<SEP>New York City": {
+    "chunk_ids": [
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "John Doe Lives In<SEP>New York City"
+  },
+  "Google Founded By<SEP>Larry Page and Sergey Brin": {
+    "chunk_ids": [
+      "chunk-f175b0c414a8035557b4957fdecde33f"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Google Founded By<SEP>Larry Page and Sergey Brin"
+  },
+  "entity1<SEP>entity2": {
+    "chunk_ids": [
+      "chunk-a21277e4f402468918e855a72e6d1f8c"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "entity1<SEP>entity2"
+  },
+  "John Doe<SEP>XYZ Corporation": {
+    "chunk_ids": [
+      "chunk-a21277e4f402468918e855a72e6d1f8c"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "John Doe<SEP>XYZ Corporation"
+  },
+  "Employee-Works-for<SEP>Entity1": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Employee-Works-for<SEP>Entity1"
+  },
+  "Jane works for<SEP>United Nations": {
+    "chunk_ids": [
+      "chunk-56633381ec580d5606ac939f1785de24"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Jane works for<SEP>United Nations"
+  },
+  "Company X<SEP>Company X-Employees": {
+    "chunk_ids": [
+      "chunk-024a14cb4adc5356e4c0da0916c30137"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Company X<SEP>Company X-Employees"
+  },
+  "Galactic Innovations<SEP>headquartered_in": {
+    "chunk_ids": [
+      "chunk-9209e29e5b24f7ce738e6b303a056390"
+    ],
+    "count": 1,
+    "create_time": 1770325642,
+    "update_time": 1770325642,
+    "_id": "Galactic Innovations<SEP>headquartered_in"
+  },
+  "organization<SEP>partOf": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "organization<SEP>partOf"
+  },
+  "Company A<SEP>Hires": {
+    "chunk_ids": [
+      "chunk-673f15ce9e5e1136ab1eaef6161676cd"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "Company A<SEP>Hires"
+  },
+  "organization<SEP>partneredWith": {
+    "chunk_ids": [
+      "chunk-209e03bc901f4873b2e52d95d1c93231"
+    ],
+    "count": 1,
+    "create_time": 1770325643,
+    "update_time": 1770325643,
+    "_id": "organization<SEP>partneredWith"
+  }
+}
