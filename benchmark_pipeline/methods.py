@@ -163,7 +163,23 @@ class LightRAGMethod(BenchmarkMethod):
             return [self.client.embed(self.embedding_model, t) for t in texts]
 
         first = self.client.embed(self.embedding_model, "dim_check")
-        _embedding.embedding_dim = len(first)
+        embedding_dim = len(first)
+
+        embedding_func = _embedding
+        try:
+            try:
+                from lightrag.utils import EmbeddingFunc
+            except Exception:
+                from lightrag import EmbeddingFunc  # type: ignore[attr-defined]
+
+            embedding_func = EmbeddingFunc(
+                embedding_dim=embedding_dim,
+                max_token_size=8192,
+                func=_embedding,
+            )
+        except Exception:
+            _embedding.embedding_dim = embedding_dim
+            embedding_func = _embedding
 
         async def _llm(prompt: str, **kwargs) -> str:
             del kwargs
@@ -177,7 +193,7 @@ class LightRAGMethod(BenchmarkMethod):
 
         engine = LightRAG(
             working_dir="./tmp_lightrag",
-            embedding_func=_embedding,
+            embedding_func=embedding_func,
             llm_model_func=_llm,
         )
         asyncio.run(engine.initialize_storages())
