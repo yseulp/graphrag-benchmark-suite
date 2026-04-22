@@ -163,9 +163,9 @@ class LightRAGMethod(BenchmarkMethod):
             import numpy as np
 
             if isinstance(texts, str):
-                return np.asarray(self.client.embed(self.embedding_model, texts), dtype=np.float32)
-
-            batch = list(texts)
+                batch = [texts]
+            else:
+                batch = list(texts)
             if not batch:
                 return np.asarray([], dtype=np.float32)
 
@@ -178,17 +178,23 @@ class LightRAGMethod(BenchmarkMethod):
         embedding_func = _embedding
         try:
             try:
-                from lightrag.utils import EmbeddingFunc
+                from lightrag.utils import EmbeddingFunc, wrap_embedding_func_with_attrs
+
+                embedding_func = wrap_embedding_func_with_attrs(
+                    embedding_dim=embedding_dim,
+                    max_token_size=8192,
+                )(_embedding)
             except Exception:
                 from lightrag import EmbeddingFunc  # type: ignore[attr-defined]
 
-            embedding_func = EmbeddingFunc(
-                embedding_dim=embedding_dim,
-                max_token_size=8192,
-                func=_embedding,
-            )
+                embedding_func = EmbeddingFunc(
+                    embedding_dim=embedding_dim,
+                    max_token_size=8192,
+                    func=_embedding,
+                )
         except Exception:
             _embedding.embedding_dim = embedding_dim
+            _embedding.max_token_size = 8192
             embedding_func = _embedding
 
         async def _llm(prompt: str, **kwargs) -> str:
