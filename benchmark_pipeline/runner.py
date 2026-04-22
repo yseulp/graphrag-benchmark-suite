@@ -39,7 +39,13 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
     contexts = list(dict.fromkeys([r["context"] for r in eval_rows if r.get("context")]))
     all_method_summaries: List[Dict] = []
 
+    print(
+        f"Run {run_id}: loaded {len(eval_rows)} eval rows and {len(contexts)} unique contexts",
+        flush=True,
+    )
+
     for method_name in cfg.methods:
+        print(f"[{method_name}] building method", flush=True)
         method = build_method(
             method_name=method_name,
             client=client,
@@ -52,15 +58,18 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
         )
 
         indexing_start = time.perf_counter()
+        print(f"[{method_name}] indexing started", flush=True)
         method.build_index(
             contexts=contexts,
             chunk_size=cfg.chunking.chunk_size,
             chunk_overlap=cfg.chunking.chunk_overlap,
         )
         indexing_time_s = time.perf_counter() - indexing_start
+        print(f"[{method_name}] indexing finished in {indexing_time_s:.2f}s", flush=True)
 
         method_rows: List[Dict] = []
-        for row in eval_rows:
+        total = len(eval_rows)
+        for i, row in enumerate(eval_rows, start=1):
             q = row["question"]
             gold = row["gold_answer"]
             start = time.perf_counter()
@@ -96,8 +105,15 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
                 }
             )
 
+            if i % 10 == 0 or i == total:
+                print(
+                    f"[{method_name}] progress {i}/{total} samples, last latency={latency_ms:.1f}ms",
+                    flush=True,
+                )
+
         output_path = _method_output_path(cfg.output_dir, run_id, method_name)
         write_jsonl(output_path, method_rows)
+        print(f"[{method_name}] wrote rows to {output_path}", flush=True)
 
         ref_scores = aggregate_reference_scores(method_rows)
         judge_correctness = mean([float(r["judge"].get("correctness", 1)) for r in method_rows])
@@ -118,6 +134,11 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
                 "avg_retrieval_time_ms": retrieval_ms,
                 "avg_latency_ms": latency_ms,
             }
+        )
+        print(
+            f"[{method_name}] done: F1={ref_scores['token_f1']:.4f}, EM={ref_scores['exact_match']:.4f}, "
+            f"judge_corr={judge_correctness:.2f}",
+            flush=True,
         )
 
     summary = {
