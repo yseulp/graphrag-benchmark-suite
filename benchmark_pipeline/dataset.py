@@ -16,8 +16,13 @@ def build_ultradomain_split(
     seed: int,
 ) -> List[Dict]:
     from datasets import load_dataset
+    from datasets.exceptions import DatasetGenerationError
+    from datasets.table import CastError
 
-    ds = load_dataset(hf_id, split=split, streaming=False)
+    try:
+        ds = load_dataset(hf_id, split=split, streaming=False)
+    except (DatasetGenerationError, CastError):
+        ds = load_dataset(hf_id, split=split, streaming=True)
     rng = random.Random(seed)
 
     by_domain: Dict[str, List[Dict]] = {d: [] for d in domains}
