@@ -1,0 +1,41 @@
+name: ultradomain_vector_rag_only_v1
+track: unified
+
+methods:
+  - vector_rag
+
+seeds:
+  - 13
+  - 42
+  - 123
+
+models:
+  generation: qwen2.5:14b
+  embedding: mxbai-embed-large
+  judge: qwen2.5:14b
+  ollama_base_url: http://localhost:11434
+
+chunking:
+  chunk_size: 512
+  chunk_overlap: 64
+
+runtime:
+  retrieval_token_budget: 2000
+  max_answer_tokens: 256
+  temperature: 0.0
+  top_p: 1.0
+  timeout_s: 180
+
+dataset:
+  hf_id: TommyChien/UltraDomain
+  split: train
+  domains:
+    - agriculture
+    - cs
+    - legal
+    - mix
+  samples_per_domain: 100
+  seed: 42
+  split_file: data/splits/ultradomain_v1/unified_eval.jsonl
+
+output_dir: runs/unified_benchmark
