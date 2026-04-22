@@ -159,8 +159,11 @@ class LightRAGMethod(BenchmarkMethod):
         except Exception as exc:
             raise RuntimeError("lightrag package unavailable; cannot run method=lightrag") from exc
 
-        async def _embedding(texts: List[str]) -> List[List[float]]:
-            return [self.client.embed(self.embedding_model, t) for t in texts]
+        async def _embedding(texts: List[str]) -> Any:
+            import numpy as np
+
+            rows = [self.client.embed(self.embedding_model, t) for t in texts]
+            return np.asarray(rows, dtype=np.float32)
 
         first = self.client.embed(self.embedding_model, "dim_check")
         embedding_dim = len(first)
