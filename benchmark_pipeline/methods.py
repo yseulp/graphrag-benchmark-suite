@@ -220,7 +220,10 @@ class LightRAGMethod(BenchmarkMethod):
         if self.adapter is None:
             raise RuntimeError("LightRAG method not initialized")
         start = time.perf_counter()
-        out = self.adapter.answer(question)
+        out = self.adapter.answer(
+            question,
+            retrieval_token_budget=self.retrieval_token_budget,
+        )
         retrieval_ms = (time.perf_counter() - start) * 1000
         retrieved = out.get("retrieved_texts", [])
         budget = sum(approximate_token_count(t) for t in retrieved)

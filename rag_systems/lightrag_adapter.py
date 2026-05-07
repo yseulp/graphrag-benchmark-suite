@@ -1,10 +1,17 @@
 # rag_systems/lightrag_adapter.py
 
 import asyncio
-from typing import List, Dict, Any, Optional
+from typing import Any, Dict, List, Optional
 
 from .base import BaseRAG
 from lightrag import LightRAG, QueryParam
+
+
+def _approximate_token_count(text: str) -> int:
+    if not text:
+        return 0
+    words = len(text.split())
+    return max(1, int(words * 1.3))
 
 class LightRAGAdapter(BaseRAG):
     def __init__(
@@ -47,7 +54,12 @@ class LightRAGAdapter(BaseRAG):
             asyncio.set_event_loop(loop)
         return loop.run_until_complete(coro)
 
-    def answer(self, question: str, top_k: int = 5) -> Dict[str, Any]:
+    def answer(
+        self,
+        question: str,
+        top_k: int = 5,
+        retrieval_token_budget: Optional[int] = None,
+    ) -> Dict[str, Any]:
         """
         Answer a single UltraDomain question using LightRAG.
 
@@ -70,9 +82,20 @@ class LightRAGAdapter(BaseRAG):
         param.mode = self.mode
         param.enable_rerank = False
 
-        raw_data = self._run_coroutine(
-            self.engine.aquery_llm(question, param=param)
-        )
+        if hasattr(param, "top_k"):
+            setattr(param, "top_k", top_k)
+
+        if retrieval_token_budget is not None:
+            for attr in (
+                "max_token_for_text_unit",
+                "max_token_for_global_context",
+                "max_token_for_local_context",
+                "max_total_tokens",
+            ):
+                if hasattr(param, attr):
+                    setattr(param, attr, retrieval_token_budget)
+
+        raw_data = self._run_coroutine(self.engine.aquery_llm(question, param=param))
 
         llm_resp = raw_data.get("llm_response", {}) or {}
         answer_text: str = llm_resp.get("content") or ""
@@ -80,12 +103,29 @@ class LightRAGAdapter(BaseRAG):
         data = raw_data.get("data", {}) or {}
 
         retrieved_texts: List[str] = self._extract_retrieved_texts(data)
+        retrieved_texts = self._trim_to_budget(retrieved_texts, retrieval_token_budget)
 
         return {
             "answer": answer_text,
             "retrieved_texts": retrieved_texts,
             "raw": raw_data,  
         }
+
+    def _trim_to_budget(self, texts: List[str], budget: Optional[int]) -> List[str]:
+        if budget is None or budget <= 0:
+            return texts
+
+        out: List[str] = []
+        used = 0
+        for text in texts:
+            tok = _approximate_token_count(text)
+            if used + tok > budget:
+                continue
+            out.append(text)
+            used += tok
+            if used >= budget:
+                break
+        return out
 
 
     def _extract_retrieved_texts(self, data: Dict[str, Any]) -> List[str]:
