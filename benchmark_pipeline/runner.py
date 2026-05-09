@@ -8,9 +8,8 @@ from typing import Dict, List
 
 from .config import ExperimentConfig, load_experiment_config
 from .dataset import load_or_build_split
-from .judge import judge_answer
 from .methods import build_method
-from .metrics import aggregate_reference_scores, exact_match, f1_score, mean
+from .metrics import mean
 from .ollama_client import OllamaClient
 from .utils import write_jsonl
 
@@ -71,21 +70,9 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
         total = len(eval_rows)
         for i, row in enumerate(eval_rows, start=1):
             q = row["question"]
-            gold = row["gold_answer"]
             start = time.perf_counter()
             pred = method.answer(q)
             latency_ms = (time.perf_counter() - start) * 1000
-
-            f1, precision, recall = f1_score(pred.answer, gold)
-            em = exact_match(pred.answer, gold)
-            judge = judge_answer(
-                client=client,
-                judge_model=cfg.models.judge,
-                question=q,
-                gold_answer=gold,
-                pred_answer=pred.answer,
-                retrieved_context="\n\n".join(pred.retrieved_texts),
-            )
 
             method_rows.append(
                 {
@@ -96,11 +83,6 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
                     "retrieval_token_cost": pred.retrieval_token_cost,
                     "retrieval_time_ms": pred.retrieval_time_ms,
                     "latency_ms": latency_ms,
-                    "exact_match": em,
-                    "token_f1": f1,
-                    "precision": precision,
-                    "recall": recall,
-                    "judge": judge,
                     "raw": pred.raw,
                 }
             )
@@ -115,29 +97,47 @@ def run_benchmark(cfg: ExperimentConfig) -> Dict:
         write_jsonl(output_path, method_rows)
         print(f"[{method_name}] wrote rows to {output_path}", flush=True)
 
-        ref_scores = aggregate_reference_scores(method_rows)
-        judge_correctness = mean([float(r["judge"].get("correctness", 1)) for r in method_rows])
-        judge_groundedness = mean([float(r["judge"].get("groundedness", 1)) for r in method_rows])
         retrieval_tokens = mean([float(r.get("retrieval_token_cost", 0)) for r in method_rows])
         retrieval_ms = mean([float(r.get("retrieval_time_ms", 0)) for r in method_rows])
         latency_ms = mean([float(r.get("latency_ms", 0)) for r in method_rows])
+
+        domain_summary: Dict[str, Dict[str, float]] = {}
+        for row in method_rows:
+            domain = str(row.get("domain", "unknown"))
+            bucket = domain_summary.setdefault(
+                domain,
+                {
+                    "samples": 0,
+                    "avg_retrieval_token_cost": 0.0,
+                    "avg_retrieval_time_ms": 0.0,
+                    "avg_latency_ms": 0.0,
+                },
+            )
+            bucket["samples"] += 1
+            bucket["avg_retrieval_token_cost"] += float(row.get("retrieval_token_cost", 0) or 0)
+            bucket["avg_retrieval_time_ms"] += float(row.get("retrieval_time_ms", 0) or 0)
+            bucket["avg_latency_ms"] += float(row.get("latency_ms", 0) or 0)
+
+        for bucket in domain_summary.values():
+            samples = max(1, int(bucket["samples"]))
+            bucket["avg_retrieval_token_cost"] /= samples
+            bucket["avg_retrieval_time_ms"] /= samples
+            bucket["avg_latency_ms"] /= samples
 
         all_method_summaries.append(
             {
                 "method": method_name,
                 "samples": len(method_rows),
                 "indexing_time_s": indexing_time_s,
-                **ref_scores,
-                "judge_correctness": judge_correctness,
-                "judge_groundedness": judge_groundedness,
                 "avg_retrieval_token_cost": retrieval_tokens,
                 "avg_retrieval_time_ms": retrieval_ms,
                 "avg_latency_ms": latency_ms,
+                "by_domain": domain_summary,
             }
         )
         print(
-            f"[{method_name}] done: F1={ref_scores['token_f1']:.4f}, EM={ref_scores['exact_match']:.4f}, "
-            f"judge_corr={judge_correctness:.2f}",
+            f"[{method_name}] done: avg_latency={latency_ms:.1f}ms, avg_retrieval={retrieval_ms:.1f}ms, "
+            f"avg_tokens={retrieval_tokens:.1f}",
             flush=True,
         )
 
@@ -178,8 +178,8 @@ def main() -> None:
     print(summary["run_id"])
     for method in summary["methods"]:
         print(
-            f"- {method['method']}: F1={method['token_f1']:.4f}, "
-            f"EM={method['exact_match']:.4f}, judge_corr={method['judge_correctness']:.2f}"
+            f"- {method['method']}: avg_latency={method['avg_latency_ms']:.1f}ms, "
+            f"avg_retrieval={method['avg_retrieval_time_ms']:.1f}ms"
         )
 
 
