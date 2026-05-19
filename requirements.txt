@@ -6,3 +6,7 @@ requests>=2.31.0
 # Optional: required only for LightRAG-specific scripts under scripts/
 lightrag-hku>=1.0.0
 numpy>=1.26.0
+
+# Optional: required for RAGAS evaluation script
+ragas>=0.1.0
+langchain-ollama>=0.1.0
